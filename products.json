@@ -1,0 +1,108 @@
+{
+    "sku": "flyers",
+    "title_single": {
+        "en": "Flyers",
+        "nl": "Flyer"
+    },
+    "title_plural": {
+        "en": "Flyers",
+        "nl": "Flyers"
+    },
+    "groups": [{
+        "title": {
+            "nl": "Look & Feel",
+            "en": "Look & Feel"
+        },
+        "properties": [
+            "material",
+            "size"
+        ]
+    }, {
+        "title": {
+            "nl": "Afwerking",
+            "en": "Finishing"
+        },
+        "properties": [
+            "finish"
+        ]
+    }, {
+        "title": {
+            "nl": "Extra's",
+            "en": "Extra's"
+        },
+        "properties": [
+            "drilling_holes",
+            "bundling",
+            "rounded_corners"
+        ]
+    }, {
+        "title": {
+            "nl": "Oplage",
+            "en": "Copies"
+        },
+        "properties": [
+            "copies"
+        ]
+    }],
+    "properties": [{
+        "slug": "material",
+        "title": {
+            "nl": "Materiaal",
+            "en": "Material"
+        },
+        "options": [
+            {
+                "name": {
+                    "nl": "A2 - 420 x 594 mm"
+                },
+                "slug": "a2"
+            },
+            {
+                "name": {
+                    "nl": "A3 - 297 x 420 mm"
+                },
+                "slug": "a3"
+            },
+            {
+                "name": {
+                    "nl": "A4 - 210 x 297 mm"
+                },
+                "slug": "a4"
+            },
+            {
+                "name": {
+                    "nl": "A5 - 148 x 210 mm"
+                },
+                "slug": "a5"
+            },
+            {
+                "name": {
+                    "nl": "A6 - 105 x 148 mm"
+                },
+                "slug": "a6"
+            },
+            {
+                "name": {
+                    "nl": "A7 - 74 x 105 mm"
+                },
+                "slug": "a7"
+            },
+            {
+                "name": {
+                    "nl": "A8 - 52 x 74 mm"
+                },
+                "slug": "a8"
+            }
+        ]
+    }, {
+        "slug": "size",
+        "title": {
+            "nl": "Formaat",
+            "en": "Size"
+        },
+        "options": [{
+            "slug": "a2"
+        }]
+    }],
+    "impossible_combinations": []
+}
