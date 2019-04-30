@@ -1,0 +1,1490 @@
+{
+  "sheet": "950w_680h",
+  "title_single": { "en": "Folder", "nl": "Folder" },
+  "title_plural": { "en": "Folders", "nl": "Folders" },
+  "excludes": [
+    [
+      { "options": ["400gr_silk_mc", "90gr_gesatineerd_mc"], "property": "material" },
+      { "options": [1500, 2000, 3000, 4000, 6000, 7000, 8000, 9000, 11000, 12000, 13000, 14000, 16000, 17000, 18000, 19000], "property": "copies" }
+    ],
+    [{ "options": ["sigle_sided_cold_foil"], "property": "spot_finish" }, { "options": ["digital"], "property": "printingmethod" }],
+    [
+      { "options": ["single_sided_partial_gloss", "double_sided_partial_gloss", "sigle_sided_cold_foil"], "property": "spot_finish" },
+      { "options": ["offset"], "property": "printingmethod" },
+      { "options": ["numbering", "personalize_from_excel"], "property": "personalize" }
+    ],
+    [
+      { "options": ["sigle_sided_cold_foil"], "property": "spot_finish" },
+      {
+        "options": [
+          "90gr_gesatineerd_mc",
+          "115gr_gesatineerd_mc",
+          "135gr_gesatineerd_mc",
+          "170gr_gesatineerd_mc",
+          "250gr_gesatineerd_mc",
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "400gr_gesatineerd_mc",
+          "90gr_silk_mc",
+          "115gr_silk_mc",
+          "135gr_silk_mc",
+          "170gr_silk_mc",
+          "250gr_silk_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "90gr_recycled",
+          "120gr_recycled",
+          "160gr_recycled",
+          "300gr_recycled",
+          "90gr_biotop",
+          "160gr_biotop",
+          "120gr_biotop",
+          "250gr_biotop",
+          "300gr_biotop",
+          "90gr_hvo",
+          "120gr_hvo",
+          "170gr_hvo",
+          "250gr_hvo",
+          "300gr_hvo",
+          "240gr_sbs",
+          "300gr_sbs",
+          "400gr_sbd",
+          "500gr_sbd",
+          "280gr_linnen",
+          "250gr_tintoretto_gesso",
+          "300gr_tintoretto_gesso",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_gold",
+          "300gr_metallic_silver",
+          "280gr_kraft",
+          "381gr_kraft",
+          "140gr_yupo_static_foil",
+          "200gr_yupo",
+          "250gr_yupo",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "400gr_yupo",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "90gr_paperwise_earth_pact_natural",
+          "150gr_paperwise_earth_pact_natural",
+          "295gr_paperwise_earth_pact_natural",
+          "90gr_hv_bankpost"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      { "options": ["offset"], "property": "printingmethod" },
+      { "options": ["single_sided_partial_gloss", "double_sided_partial_gloss", "sigle_sided_cold_foil"], "property": "spot_finish" },
+      { "options": ["bundle_per_50", "bundle_per_100", "bundle_per_250", "bundle_per_500"], "property": "bundle" }
+    ],
+    [
+      { "options": ["single_sided_partial_gloss", "double_sided_partial_gloss", "sigle_sided_cold_foil"], "property": "spot_finish" },
+      { "options": ["offset"], "property": "printingmethod" },
+      { "options": ["numbering", "personalize_from_excel"], "property": "personalize" }
+    ],
+    [
+      { "options": ["yes"], "property": "die_cut" },
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      { "options": ["single_sided_partial_gloss", "double_sided_partial_gloss", "single_sided_embossed_partial_gloss", "double_sided_embossed_partial_gloss"], "property": "spot_finish" },
+      { "options": ["geen"], "property": "finish" }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_embossed_partial_gloss",
+          "single_sided_embossed_partial_gloss",
+          "group_partial_gloss"
+        ],
+        "property": "spot_finish"
+      },
+      { "options": ["offset"], "property": "printingmethod" }
+    ],
+    [
+      {
+        "options": [
+          "300gr_recycled",
+          "250gr_biotop",
+          "300gr_biotop",
+          "280gr_linnen",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_silver",
+          "300gr_metallic_gold",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "750gr_multiloft_blue_core",
+          "750gr_multiloft_pastel_pink_core",
+          "750gr_multiloft_turqoise_core",
+          "750gr_multiloft_yellow_core",
+          "750gr_multiloft_black_core",
+          "750gr_multiloft_green_core",
+          "750gr_multiloft_orange_core",
+          "750gr_multiloft_pastel_green_core",
+          "750gr_multiloft_pink_core",
+          "750gr_multiloft_purple_core",
+          "750gr_multiloft_red_core",
+          "750gr_multiloft_white_core",
+          "810gr_multiloft_blue_core",
+          "810gr_multiloft_pastel_pink_core",
+          "810gr_multiloft_turqoise_core",
+          "810gr_multiloft_yellow_core",
+          "810gr_multiloft_black_core",
+          "810gr_multiloft_green_core",
+          "810gr_multiloft_orange_core",
+          "810gr_multiloft_pastel_green_core",
+          "810gr_multiloft_pink_core",
+          "810gr_multiloft_purple_core",
+          "810gr_multiloft_red_core",
+          "810gr_multiloft_white_core",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "500gr_sbd",
+          "90gr_paperwise_earth_pact_natural",
+          "150gr_paperwise_earth_pact_natural",
+          "295gr_paperwise_earth_pact_natural",
+          "400gr_yupo",
+          "250gr_yupo",
+          "200gr_yupo",
+          "140gr_yupo_static_foil",
+          "120gr_hvo",
+          "90gr_hvo",
+          "160gr_biotop",
+          "120gr_biotop",
+          "90gr_biotop",
+          "160gr_recycled",
+          "120gr_recycled",
+          "90gr_recycled",
+          "115gr_silk_mc",
+          "90gr_silk_mc",
+          "115gr_gesatineerd_mc",
+          "90gr_gesatineerd_mc",
+          "90gr_hv_bankpost"
+        ],
+        "property": "material"
+      },
+      {
+        "options": ["single_sided_foil_gold", "single_sided_foil_silver", "single_sided_foil_copper", "double_sided_foil_gold", "double_sided_foil_silver", "double_sided_foil_copper"],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "115gr_gesatineerd_mc",
+          "150gr_gesatineerd_mc",
+          "200gr_gesatineerd_mc",
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "400gr_gesatineerd_mc",
+          "90gr_silk_mc",
+          "115gr_silk_mc",
+          "150gr_silk_mc",
+          "200gr_silk_mc",
+          "115gr_recycled",
+          "170gr_recycled",
+          "120gr_hvo",
+          "250gr_hvo",
+          "240gr_sbs",
+          "350gr_sbs",
+          "500gr_sbd",
+          "250gr_tintoretto_gesso",
+          "280gr_linnen",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_gold",
+          "300gr_ice_silver_metallic",
+          "140gr_yupo_static_foil",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "300gr_tintoretto_gesso",
+          "350gr_metallic_white",
+          "300gr_metallic_silver",
+          "290gr_sirio_color_nero",
+          "350gr_sbd",
+          "350gr_silk_mc",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "400gr_sbd",
+          "200gr_yupo",
+          "250gr_yupo",
+          "400gr_yupo",
+          "90gr_paperwise_earth_pact_natural",
+          "150gr_paperwise_earth_pact_natural",
+          "295gr_paperwise_earth_pact_natural",
+          "90gr_hv_bankpost",
+          "90gr_gesatineerd_mc"
+        ],
+        "property": "material"
+      },
+      { "options": ["offset"], "property": "printingmethod" }
+    ],
+    [
+      { "options": ["300gr_sbs", "240gr_sbs"], "property": "material" },
+      { "options": ["double_sided_embossed_partial_gloss", "double_sided_partial_gloss", "double_sided_foil_gold", "double_sided_foil_silver", "double_sided_foil_copper"], "property": "spot_finish" }
+    ],
+    [
+      { "options": ["single_sided_gloss_lamination", "single_sided_matt_lamination", "single_soft_touch_lamination", "single_sided_scratch_resistant_laminate"], "property": "finish" },
+      { "options": ["double_sided_embossed_partial_gloss", "double_sided_partial_gloss"], "property": "spot_finish" }
+    ],
+    [
+      {
+        "options": [
+          "500gr_sbd",
+          "90gr_paperwise_earth_pact_natural",
+          "150gr_paperwise_earth_pact_natural",
+          "295gr_paperwise_earth_pact_natural",
+          "400gr_yupo",
+          "250gr_yupo",
+          "200gr_yupo",
+          "90gr_gesatineerd_mc",
+          "115gr_gesatineerd_mc",
+          "90gr_silk_mc",
+          "115gr_silk_mc",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi"
+        ],
+        "property": "material"
+      },
+      { "options": ["single_sided_partial_gloss", "single_sided_embossed_partial_gloss", "double_sided_embossed_partial_gloss"], "property": "spot_finish" }
+    ],
+    [{ "options": ["geen", "double_sided_gloss_lamination"], "property": "finish" }, { "options": ["offset"], "property": "printingmethod" }, { "options": ["300gr_sbs"], "property": "material" }],
+    [
+      { "options": ["partial_gloss_uv_coating"], "property": "finish" },
+      { "options": ["digital"], "property": "printingmethod" },
+      {
+        "options": [
+          "90gr_eco",
+          "115gr_recycled",
+          "170gr_recycled",
+          "90gr_biotop",
+          "120gr_biotop",
+          "160gr_biotop",
+          "250gr_biotop",
+          "300gr_biotop",
+          "250gr_tintoretto_gesso",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_gold",
+          "300gr_metallic_silver",
+          "300gr_zwart",
+          "140gr_yupo_static_foil",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "300gr_recycled",
+          "200gr_yupo",
+          "250gr_yupo",
+          "400gr_yupo"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "90gr_gesatineerd_mc",
+          "115gr_gesatineerd_mc",
+          "135gr_gesatineerd_mc",
+          "170gr_gesatineerd_mc",
+          "250gr_gesatineerd_mc",
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "400gr_gesatineerd_mc",
+          "90gr_silk_mc",
+          "115gr_silk_mc",
+          "135gr_silk_mc",
+          "170gr_silk_mc",
+          "250gr_silk_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "400gr_silk_mc",
+          "90gr_recycled",
+          "120gr_recycled",
+          "160gr_recycled",
+          "300gr_recycled",
+          "90gr_biotop",
+          "120gr_biotop",
+          "160gr_biotop",
+          "250gr_biotop",
+          "300gr_biotop",
+          "90gr_hvo",
+          "170gr_hvo",
+          "120gr_hvo",
+          "250gr_hvo",
+          "300gr_hvo",
+          "240gr_sbs",
+          "350gr_sbd",
+          "250gr_tintoretto_gesso",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_gold",
+          "300gr_metallic_silver",
+          "140gr_yupo_static_foil",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "200gr_yupo",
+          "250gr_yupo",
+          "400gr_yupo"
+        ],
+        "property": "material"
+      },
+      { "options": ["offset"], "property": "printingmethod" },
+      { "options": ["double_sided_gloss_lamination", "single_sided_matt_lamination"], "property": "finish" }
+    ],
+    [
+      { "options": ["single_sided_gloss_lamination"], "property": "finish" },
+      { "options": ["offset"], "property": "printingmethod" },
+      {
+        "options": [
+          "90gr_gesatineerd_mc",
+          "115gr_gesatineerd_mc",
+          "135gr_gesatineerd_mc",
+          "170gr_gesatineerd_mc",
+          "250gr_gesatineerd_mc",
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "400gr_gesatineerd_mc",
+          "90gr_silk_mc",
+          "115gr_silk_mc",
+          "135gr_silk_mc",
+          "170gr_silk_mc",
+          "250gr_silk_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "400gr_silk_mc",
+          "90gr_recycled",
+          "120gr_recycled",
+          "160gr_recycled",
+          "300gr_recycled",
+          "90gr_biotop",
+          "120gr_biotop",
+          "160gr_biotop",
+          "250gr_biotop",
+          "300gr_biotop",
+          "90gr_hvo",
+          "120gr_hvo",
+          "170gr_hvo",
+          "250gr_hvo",
+          "300gr_hvo",
+          "240gr_sbs",
+          "350gr_sbd",
+          "250gr_tintoretto_gesso",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_gold",
+          "300gr_metallic_silver",
+          "140gr_yupo_static_foil",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "200gr_yupo",
+          "250gr_yupo",
+          "400gr_yupo"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      { "options": ["offset"], "property": "printingmethod" },
+      { "options": ["double_sided_matt_lamination"], "property": "finish" },
+      {
+        "options": [
+          "90gr_gesatineerd_mc",
+          "115gr_gesatineerd_mc",
+          "135gr_gesatineerd_mc",
+          "170gr_gesatineerd_mc",
+          "250gr_gesatineerd_mc",
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "400gr_gesatineerd_mc",
+          "90gr_silk_mc",
+          "115gr_silk_mc",
+          "135gr_silk_mc",
+          "170gr_silk_mc",
+          "250gr_silk_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "90gr_recycled",
+          "120gr_recycled",
+          "160gr_recycled",
+          "90gr_biotop",
+          "300gr_recycled",
+          "120gr_biotop",
+          "160gr_biotop",
+          "250gr_biotop",
+          "300gr_biotop",
+          "120gr_hvo",
+          "90gr_hvo",
+          "170gr_hvo",
+          "250gr_hvo",
+          "300gr_hvo",
+          "240gr_sbs",
+          "300gr_sbs",
+          "350gr_sbd",
+          "250gr_tintoretto_gesso",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_gold",
+          "300gr_metallic_silver",
+          "140gr_yupo_static_foil",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "200gr_yupo",
+          "250gr_yupo",
+          "400gr_yupo"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      { "options": ["300gr_sbs", "240gr_sbs"], "property": "material" },
+      { "options": ["double_sided_gloss_lamination", "double_sided_matt_lamination", "double_soft_touch_lamination", "double_sided_scratch_resistant_laminate"], "property": "finish" }
+    ],
+    [{ "options": ["digital"], "property": "printingmethod" }, { "options": ["cross_8"], "property": "fold" }, { "options": ["a3_vierkant", "a3"], "property": "size" }],
+    [{ "options": ["numbering", "personalize_from_excel"], "property": "personalize" }, { "options": ["offset"], "property": "printingmethod" }],
+    [{ "options": ["bundle_250_boxes", "bundle_250_no_boxes"], "property": "pallet_delivery" }, { "options": ["bundle_per_25", "bundle_per_50", "bundle_per_100", "bundle_per_500"], "property": "bundle" }],
+    [{ "options": ["bundle_500_boxes", "bundle_500_no_boxes"], "property": "pallet_delivery" }, { "options": ["bundle_per_250", "bundle_per_100", "bundle_per_50", "bundle_per_25"], "property": "bundle" }],
+    [{ "options": ["bundle_random_boxes"], "property": "pallet_delivery" }, { "options": ["bundle_per_50", "bundle_per_25", "bundle_per_100", "bundle_per_250", "bundle_per_500"], "property": "bundle" }],
+    [
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate"
+        ],
+        "property": "finish"
+      },
+      { "options": ["offset"], "property": "printingmethod" }
+    ],
+    [{ "options": ["double_sided_matt_with_partial_gloss", "double_sided_matt_with_embossed_partial_gloss"], "property": "finish" }, { "options": ["offset"], "property": "printingmethod" }],
+    [{ "options": ["carre_xs"], "property": "size" }, { "options": ["offset"], "property": "printingmethod" }],
+    [
+      { "options": ["single_sided_partial_gloss", "double_sided_partial_gloss"], "property": "spot_finish" },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate"
+        ],
+        "property": "finish"
+      },
+      { "options": ["offset"], "property": "printingmethod" }
+    ],
+    [
+      { "options": ["single_sided_partial_gloss", "double_sided_partial_gloss", "sigle_sided_cold_foil"], "property": "spot_finish" },
+      { "options": ["offset"], "property": "printingmethod" },
+      { "options": ["bundle_250_boxes", "bundle_250_no_boxes", "bundle_500_boxes", "bundle_500_no_boxes", "bundle_random_boxes", "bundle_random_no_boxes"], "property": "pallet_delivery" }
+    ],
+    [
+      { "options": ["a4_landscape", "a3"], "property": "size" },
+      { "options": ["wikkel_6", "zigzag_6", "wikkel_8", "zigzag_8", "cross_8", "zigzag_10", "wikkel_10"], "property": "fold" },
+      { "options": ["digital"], "property": "printingmethod" }
+    ],
+    [
+      { "options": ["cross_8"], "property": "fold" },
+      {
+        "options": [
+          "295gr_paperwise_earth_pact_natural",
+          "400gr_yupo",
+          "350gr_yupo_blue_ypi",
+          "300gr_yupo_blue_ypi",
+          "250gr_yupo",
+          "300gr_metallic_silver",
+          "300gr_metallic_gold",
+          "300gr_metallic_pearl",
+          "350gr_metallic_white",
+          "300gr_metallic_white",
+          "381gr_kraft",
+          "280gr_kraft",
+          "280gr_linnen",
+          "300gr_tintoretto_gesso",
+          "250gr_tintoretto_gesso",
+          "300gr_sbs",
+          "240gr_sbs",
+          "300gr_hvo",
+          "250gr_hvo",
+          "300gr_biotop",
+          "250gr_biotop",
+          "300gr_recycled",
+          "400gr_silk_mc",
+          "350gr_silk_mc",
+          "300gr_silk_mc",
+          "250gr_silk_mc",
+          "400gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "300gr_gesatineerd_mc",
+          "250gr_gesatineerd_mc"
+        ],
+        "property": "material"
+      },
+      { "options": ["offset"], "property": "printingmethod" }
+    ],
+    [
+      { "options": ["wikkel_10", "zigzag_10"], "property": "fold" },
+      { "options": ["a3", "a4", "a4_landscape", "a5_landscape", "a3_vierkant", "carre_l", "us_large_landscape", "din_large_plus_landscape", "a5_large_landscape", "a6_large_landscape"], "property": "size" }
+    ],
+    [{ "options": ["wikkel_8", "zigzag_8", "luik_8", "wikkel_6", "zigzag_6"], "property": "fold" }, { "options": ["a3", "a4_landscape", "a3_vierkant", "a5_large_landscape"], "property": "size" }],
+    [
+      { "options": ["offset"], "property": "printingmethod" },
+      { "options": ["400gr_silk_mc"], "property": "material" },
+      { "options": ["zigzag_10", "wikkel_10"], "property": "fold" },
+      {
+        "options": [
+          "a3",
+          "a4",
+          "a4_landscape",
+          "a5",
+          "a5_landscape",
+          "a6_landscape",
+          "din_large_plus_landscape",
+          "us_large_landscape",
+          "a4_large",
+          "a5_large_landscape",
+          "a6_large_landscape",
+          "a7_large_landscape",
+          "1/3_a3",
+          "carre_l",
+          "carre_m",
+          "us_large"
+        ],
+        "property": "size"
+      }
+    ],
+    [
+      { "property": "printingmethod", "options": ["offset"] },
+      { "property": "material", "options": ["400gr_silk_mc"] },
+      { "property": "fold", "options": ["luik_8", "zigzag_8", "wikkel_8"] },
+      { "property": "size", "options": ["a3", "a4", "a4_landscape", "a5_landscape", "a3_vierkant", "carre_l", "din_large_plus_landscape", "us_large_landscape", "a5_large_landscape", "a6_large_landscape"] }
+    ],
+    [
+      { "property": "printingmethod", "options": ["offset"] },
+      { "property": "material", "options": ["400gr_silk_mc"] },
+      { "property": "fold", "options": ["wikkel_6", "zigzag_6"] },
+      { "property": "size", "options": ["a3", "a4_landscape", "a3_vierkant", "a5_large_landscape"] }
+    ],
+    [
+      { "property": "printingmethod", "options": ["offset"] },
+      { "property": "material", "options": ["90gr_recycled", "120gr_recycled", "160gr_recycled", "300gr_recycled", "90gr_biotop", "120gr_biotop", "160gr_biotop", "250gr_biotop", "300gr_biotop"] },
+      { "property": "fold", "options": ["wikkel_10", "zigzag_10"] },
+      {
+        "property": "size",
+        "options": [
+          "a6",
+          "a6_landscape",
+          "a7_landscape",
+          "din_large_plus",
+          "din_large_plus_landscape",
+          "a3",
+          "a4",
+          "a4_landscape",
+          "a5",
+          "a5_landscape",
+          "us_large",
+          "us_large_landscape",
+          "a4_large",
+          "a5_large",
+          "a5_large_landscape",
+          "a6_large_landscape",
+          "a7_large_landscape",
+          "a3_vierkant",
+          "carre_l",
+          "carre_m",
+          "carre_card",
+          "carre_s",
+          "carre_xs",
+          "1/3_a3",
+          "1/3_a4",
+          "cd_cover"
+        ]
+      }
+    ],
+    [
+      { "property": "printingmethod", "options": ["offset"] },
+      { "property": "material", "options": ["90gr_recycled", "120gr_recycled", "160gr_recycled", "300gr_recycled", "90gr_biotop", "120gr_biotop", "160gr_biotop", "250gr_biotop", "300gr_biotop"] },
+      { "property": "fold", "options": ["zigzag_8", "wikkel_8", "luik_8"] },
+      {
+        "property": "size",
+        "options": [
+          "a3",
+          "a4",
+          "a4_landscape",
+          "a5",
+          "a5_landscape",
+          "a6",
+          "a6_landscape",
+          "a7_landscape",
+          "din_large_plus",
+          "din_large_plus_landscape",
+          "us_large",
+          "us_large_landscape",
+          "a4_large",
+          "a5_large",
+          "a5_large_landscape",
+          "a6_large_landscape",
+          "a7_large_landscape",
+          "a3_vierkant",
+          "carre_l",
+          "carre_m",
+          "carre_card",
+          "carre_s",
+          "carre_xs",
+          "1/3_a3",
+          "1/3_a4",
+          "cd_cover"
+        ]
+      }
+    ],
+    [
+      { "property": "printingmethod", "options": ["offset"] },
+      { "property": "material", "options": ["90gr_recycled", "120gr_recycled", "160gr_recycled", "300gr_recycled", "90gr_biotop", "120gr_biotop", "160gr_biotop", "250gr_biotop", "300gr_biotop"] },
+      { "property": "fold", "options": ["wikkel_6", "zigzag_6"] },
+      { "property": "size", "options": ["a3", "a4", "a4_landscape", "a5_landscape", "din_large_plus_landscape", "us_large_landscape", "a5_large_landscape", "a6_large_landscape"] }
+    ],
+    [
+      { "property": "printingmethod", "options": ["offset"] },
+      { "property": "material", "options": ["90gr_recycled", "120gr_recycled", "160gr_recycled", "300gr_recycled", "90gr_biotop", "160gr_biotop", "120gr_biotop", "250gr_biotop", "300gr_biotop"] },
+      { "property": "fold", "options": ["luik_6", "singlehorizontal_4", "single_4"] },
+      { "property": "size", "options": ["a3", "a4_landscape", "a3_vierkant", "a5_large_landscape"] }
+    ],
+    [
+      { "property": "printingmethod", "options": ["digital"] },
+      { "property": "fold", "options": ["zigzag_10", "wikkel_10"] },
+      {
+        "property": "size",
+        "options": ["a3", "a4", "a4_landscape", "a5", "a5_landscape", "a6_landscape", "din_large_plus_landscape", "us_large_landscape", "a4_large", "a5_large_landscape", "a7_large_landscape"]
+      }
+    ],
+    [
+      { "property": "printingmethod", "options": ["digital"] },
+      { "property": "fold", "options": ["wikkel_8", "zigzag_8", "luik_8"] },
+      { "property": "size", "options": ["a3", "a4_landscape", "a3_vierkant", "a5_large_landscape", "a4", "a5_landscape", "carre_l", "din_large_plus_landscape", "us_large_landscape", "a6_large_landscape"] }
+    ],
+    [
+      { "property": "printingmethod", "options": ["digital"] },
+      { "property": "fold", "options": ["zigzag_6", "wikkel_6"] },
+      { "property": "size", "options": ["a3", "a4_landscape", "a3_vierkant", "a5_large_landscape"] }
+    ],
+    [{ "property": "die_cut", "options": ["yes"] }, { "property": "printingmethod", "options": ["offset"] }],
+    [{ "property": "printingmethod", "options": ["offset"] }, { "property": "size", "options": ["a7_landscape", "din_large_plus_landscape", "a6_large_landscape", "a7_large_landscape", "carre_xs"] }],
+    [
+      { "property": "finish", "options": ["geen"] },
+      {
+        "property": "spot_finish",
+        "options": [
+          "group_partial_gloss",
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss",
+          "group_foils",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_copper",
+          "double_sided_foil_silver",
+          "coldfoil",
+          "sigle_sided_cold_foil"
+        ]
+      },
+      { "property": "material", "options": ["170gr_hvo", "250gr_hvo", "300gr_hvo"] }
+    ],
+    [{ "property": "bundle", "options": ["bundle_per_50", "bundle_per_100", "bundle_per_250", "bundle_per_500"] }, { "property": "sealed", "options": ["10", "25", "50", "1"] }],
+    [
+      { "property": "sealed", "options": ["1", "10", "25", "50"] },
+      { "property": "pallet_delivery", "options": ["bundle_250_boxes", "bundle_250_no_boxes", "bundle_500_boxes", "bundle_500_no_boxes", "bundle_random_boxes", "bundle_random_no_boxes"] }
+    ],
+    [
+      { "property": "size", "options": ["a7", "a7_landscape", "carre_xs", "a6_large", "a6_large_landscape", "a7_large", "1/3_a5"] },
+      {
+        "property": "material",
+        "options": [
+          "170gr_silk_mc",
+          "250gr_silk_mc",
+          "400gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "300gr_gesatineerd_mc",
+          "250gr_gesatineerd_mc",
+          "170gr_gesatineerd_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "400gr_silk_mc",
+          "160gr_biotop",
+          "250gr_biotop",
+          "300gr_biotop",
+          "170gr_hvo",
+          "250gr_hvo",
+          "300gr_hvo",
+          "300gr_sbs",
+          "250gr_tintoretto_gesso",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_gold",
+          "300gr_metallic_silver",
+          "250gr_yupo",
+          "200gr_yupo",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "400gr_yupo",
+          "295gr_paperwise_earth_pact_natural"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "finish",
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "double_soft_touch_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate"
+        ]
+      },
+      {
+        "property": "material",
+        "options": [
+          "90gr_gesatineerd_mc",
+          "115gr_gesatineerd_mc",
+          "135gr_gesatineerd_mc",
+          "90gr_silk_mc",
+          "115gr_silk_mc",
+          "135gr_silk_mc",
+          "90gr_biotop",
+          "120gr_biotop",
+          "90gr_hvo",
+          "120gr_hvo",
+          "90gr_paperwise_earth_pact_natural",
+          "150gr_paperwise_earth_pact_natural"
+        ]
+      }
+    ]
+  ],
+  "propertyGroups": [
+    {
+      "columnWidth": { "reseller": "full", "storefront": "third" },
+      "inSelector": true,
+      "title": { "en": "Fold", "nl": "Vouwwijze" },
+      "properties": [
+        {
+          "options": [
+            { "name": { "en": "single 4", "nl": "enkele vouw links" }, "description": { "nl": "Enkele vouw links" }, "nullable": false, "enrichments": [], "slug": "single_4" },
+            { "name": { "en": "single horizontal fold", "nl": "enkele vouw boven" }, "description": { "nl": "Enkele vouw boven" }, "nullable": false, "enrichments": [], "slug": "singlehorizontal_4" },
+            { "name": { "en": "wikkel 6", "nl": "6 zijdige wikkelvouw" }, "description": {}, "nullable": false, "enrichments": [], "slug": "wikkel_6" },
+            { "name": { "en": "zigzag 6", "nl": "6 zijdige zigzagvouw" }, "description": {}, "nullable": false, "enrichments": [], "slug": "zigzag_6" },
+            { "name": { "en": "luik 6", "nl": "6 zijdige luikvouw" }, "description": {}, "nullable": false, "enrichments": [], "slug": "luik_6" },
+            { "name": { "en": "wikkel 8", "nl": "8 zijdige wikkelvouw" }, "description": {}, "nullable": false, "enrichments": [], "slug": "wikkel_8" },
+            { "name": { "en": "zigzag 8", "nl": "8 zijdige zigzagvouw" }, "description": {}, "nullable": false, "enrichments": [], "slug": "zigzag_8" },
+            { "name": { "en": "cross_8", "nl": "8 zijdige kruisvouw" }, "description": {}, "slug": "cross_8" },
+            { "name": { "en": "luik_8", "nl": "gesloten luikvouw" }, "description": { "nl": "Gesloten luikvouw" }, "slug": "luik_8" },
+            { "name": { "en": "wikkel 10", "nl": "10 zijdige wikkelvouw" }, "description": {}, "nullable": false, "enrichments": [], "slug": "wikkel_10" },
+            { "name": { "en": "zigzag 10", "nl": "10 zijdige zigzagvouw" }, "description": {}, "nullable": false, "enrichments": [], "slug": "zigzag_10" }
+          ],
+          "propertySlug": "fold",
+          "title": { "en": "Fold", "nl": "Vouw" },
+          "type": "radio",
+          "viewMode": { "reseller": "icons", "storefront": "default" },
+          "slug": "fold"
+        }
+      ]
+    },
+    {
+      "columnWidth": { "reseller": "third", "storefront": "third" },
+      "inSelector": true,
+      "title": { "en": "Gevouwen formaat", "nl": "Afgewerkt formaat" },
+      "properties": [
+        {
+          "options": [
+            { "name": { "nl": "A3 - 297 x 420 mm" }, "width": 297, "parent": "a_formaten", "description": {}, "slug": "a3", "height": 420 },
+            { "name": { "nl": "A4 - 210 x 297 mm" }, "width": "210", "parent": "a_formaten", "description": {}, "slug": "a4", "height": "297" },
+            { "name": { "nl": "A4 liggend - 297 x 210 mm" }, "width": 297, "parent": "a_formaten", "description": {}, "slug": "a4_landscape", "height": 210 },
+            { "name": { "nl": "A5 - 148 x 210 mm" }, "width": "148", "parent": "a_formaten", "description": {}, "slug": "a5", "height": "210" },
+            { "name": { "nl": "A5 liggend - 210 x 148 mm" }, "width": 210, "parent": "a_formaten", "description": {}, "slug": "a5_landscape", "height": 148 },
+            { "name": { "nl": "A6 - 105 x 148 mm" }, "width": "105", "parent": "a_formaten", "description": {}, "slug": "a6", "height": "148" },
+            { "name": { "nl": "A6 liggend - 148 x 105 mm" }, "width": 148, "parent": "a_formaten", "description": {}, "slug": "a6_landscape", "height": 105 },
+            { "name": { "nl": "A7 - 74 x 105 mm" }, "width": "74", "parent": "a_formaten", "description": {}, "slug": "a7", "height": "105" },
+            { "name": { "nl": "A7 liggend - 105 x 74 mm" }, "width": 105, "parent": "a_formaten", "description": {}, "slug": "a7_landscape", "height": 74 },
+            { "name": { "nl": "Din large+ - 99 x 210 mm" }, "width": "99", "parent": "din_formaten_large", "description": {}, "slug": "din_large_plus", "height": 210 },
+            { "name": { "nl": "Din large+ liggend - 210 x 99 mm" }, "width": 210, "parent": "din_formaten_large", "description": {}, "slug": "din_large_plus_landscape", "height": "99" },
+            { "name": { "en": "US Large", "nl": "US large - 105 x 210 mm" }, "width": "105", "parent": "din_formaten_large", "description": {}, "slug": "us_large", "height": 210 },
+            { "name": { "nl": "US large landscape - 210 x 105 mm" }, "width": 210, "parent": "din_formaten_large", "description": {}, "slug": "us_large_landscape", "height": 105 },
+            { "name": { "nl": "A4 large - 148 x 420 mm" }, "width": "148", "parent": "din_formaten_large", "description": {}, "slug": "a4_large", "height": 420 },
+            { "name": { "nl": "A5 large - 105 x 297 mm" }, "width": 105, "parent": "din_formaten_large", "description": {}, "slug": "a5_large", "height": 297 },
+            { "name": { "nl": "A5 large liggend - 297 x 105 mm" }, "width": 297, "parent": "din_formaten_large", "description": {}, "slug": "a5_large_landscape", "height": 105 },
+            { "name": { "nl": "A6 large - 74 x 210 mm" }, "width": 74, "parent": "din_formaten_large", "description": {}, "slug": "a6_large", "height": 210 },
+            { "name": { "nl": "A6 large liggend - 210 x 74 mm" }, "width": 210, "parent": "din_formaten_large", "description": {}, "slug": "a6_large_landscape", "height": 74 },
+            { "name": { "nl": "A7 large - 52 x 148 mm" }, "width": "52", "parent": "din_formaten_large", "description": {}, "slug": "a7_large", "height": "148" },
+            { "name": { "nl": "A7 large liggend - 148 x 52 mm" }, "width": 148, "parent": "din_formaten_large", "description": {}, "slug": "a7_large_landscape", "height": 52 },
+            { "name": { "nl": "Carré XL - 297 x 297 mm" }, "width": 297, "parent": "vierkant", "description": {}, "slug": "a3_vierkant", "height": 297 },
+            { "name": { "nl": "Carré L - 210 x 210 mm" }, "width": 210, "parent": "vierkant", "description": {}, "slug": "carre_l", "height": 210 },
+            { "name": { "nl": "Carré M - 148 x 148 mm" }, "width": 148, "parent": "vierkant", "description": {}, "slug": "carre_m", "height": 148 },
+            { "name": { "nl": "Carré card - 135 x 135 mm " }, "width": 135, "parent": "vierkant", "description": {}, "slug": "carre_card", "height": 135 },
+            { "name": { "en": "Carre s", "nl": "Carré S - 105 x 105 mm" }, "width": 105, "parent": "vierkant", "description": {}, "slug": "carre_s", "height": 105 },
+            { "name": { "en": "Carre xs", "nl": "Carré XS - 98 x 98 mm" }, "width": 98, "parent": "vierkant", "description": {}, "slug": "carre_xs", "height": 98 },
+            { "name": { "nl": "1/3 A3 - 140 x 297 mm" }, "width": "140", "parent": "specials", "description": {}, "slug": "1/3_a3", "height": "297" },
+            { "name": { "nl": "1/3 A4 -  99 x 210 mm" }, "width": "99", "parent": "specials", "description": { "nl": "Normale A4" }, "slug": "1/3_a4", "height": 210 },
+            { "name": { "nl": "1/3 A5 - 70 x 148 mm" }, "width": "70", "parent": "specials", "description": {}, "slug": "1/3_a5", "height": "148" },
+            { "name": { "nl": "Cd hoesje - 121 x 120 mm" }, "width": 121, "parent": "specials", "description": {}, "slug": "cd_cover", "height": 120 },
+            { "name": { "nl": "A-formaten" }, "width": 1, "description": {}, "slug": "a_formaten", "height": 1 },
+            { "name": { "nl": "Din large-formaten" }, "width": 1, "description": {}, "slug": "din_formaten_large", "height": 1 },
+            { "name": { "en": "Square", "nl": "Vierkant" }, "width": 1, "description": {}, "slug": "vierkant", "height": 1 },
+            { "name": { "nl": "Specials" }, "width": 1, "description": {}, "slug": "specials", "height": 1 },
+            { "slug": "custom", "customSizes": { "minHeight": 52, "minWidth": 99, "maxHeight": 460, "maxWidth": 460 } }
+          ],
+          "propertySlug": "size",
+          "optionsInSummary": ["a3", "a4", "a4_landscape", "a5", "a5_landscape", "a6", "a6_landscape", "din_large_plus", "din_large_plus_landscape", "carre_l", "carre_m"],
+          "title": { "en": "Size", "nl": "Afgewerkt formaat (breedte x hoogte)" },
+          "type": "radio",
+          "viewMode": { "reseller": "summary-modal", "storefront": "default" },
+          "slug": "size"
+        },
+        {
+          "options": [{ "name": { "en": "44", "nl": "4/4 full color" }, "description": {}, "nullable": false, "slug": "44" }],
+          "propertySlug": "printtype",
+          "optionsInSummary": [],
+          "title": { "en": "Print type", "nl": "Bedrukking" },
+          "type": "radio",
+          "viewMode": { "reseller": "default" },
+          "slug": "printtype"
+        }
+      ]
+    },
+    {
+      "columnWidth": { "reseller": "third", "storefront": "third" },
+      "inSelector": true,
+      "title": { "en": "Material and finish", "nl": "Materiaal en afwerking" },
+      "properties": [
+        {
+          "options": [
+            { "name": { "nl": "90 g/m² gesatineerd mc" }, "parent": "1gr_gesatineerd_mc", "description": {}, "slug": "90gr_gesatineerd_mc" },
+            {
+              "name": { "en": "115gr gesatineerd mc", "nl": "115 g/m² gesatineerd mc" },
+              "parent": "1gr_gesatineerd_mc",
+              "description": {},
+              "slug": "115gr_gesatineerd_mc",
+              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.08" }]
+            },
+            {
+              "name": { "en": "135gr Gesatineerd MC", "nl": "135 g/m² gesatineerd mc" },
+              "parent": "1gr_gesatineerd_mc",
+              "description": {},
+              "slug": "135gr_gesatineerd_mc",
+              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.1064" }]
+            },
+            {
+              "name": { "nl": "170 g/m² gesatineerd mc" },
+              "parent": "1gr_gesatineerd_mc",
+              "description": {},
+              "slug": "170gr_gesatineerd_mc",
+              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.147" }]
+            },
+            {
+              "name": { "en": "250 gr/m² satinated mc", "nl": "250 g/m² gesatineerd mc" },
+              "parent": "1gr_gesatineerd_mc",
+              "description": {},
+              "slug": "250gr_gesatineerd_mc",
+              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.217" }]
+            },
+            { "name": { "nl": "300 g/m² gesatineerd mc" }, "parent": "1gr_gesatineerd_mc", "description": {}, "slug": "300gr_gesatineerd_mc" },
+            { "name": { "en": "350gr gesatineerd mc", "nl": "350 g/m² gesatineerd mc" }, "parent": "1gr_gesatineerd_mc", "description": {}, "slug": "350gr_gesatineerd_mc" },
+            { "name": { "en": "400gr gesatineerd mc", "nl": "400 g/m² gesatineerd mc" }, "parent": "1gr_gesatineerd_mc", "description": {}, "slug": "400gr_gesatineerd_mc" },
+            { "name": { "en": "90gr silk mc", "nl": "90 g/m² silk mc" }, "parent": "1gr_silk_mc", "description": {}, "slug": "90gr_silk_mc" },
+            { "name": { "nl": "115 g/m² silk mc" }, "parent": "1gr_silk_mc", "description": {}, "slug": "115gr_silk_mc", "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.08" }] },
+            { "name": { "nl": "135 g/m² silk mc" }, "parent": "1gr_silk_mc", "description": {}, "slug": "135gr_silk_mc", "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.1064" }] },
+            { "name": { "nl": "170 g/m² silk mc" }, "parent": "1gr_silk_mc", "description": {}, "slug": "170gr_silk_mc", "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.147" }] },
+            { "name": { "nl": "250 g/m² silk mc" }, "parent": "1gr_silk_mc", "description": {}, "slug": "250gr_silk_mc" },
+            { "name": { "nl": "300 g/m² silk mc" }, "parent": "1gr_silk_mc", "description": {}, "slug": "300gr_silk_mc" },
+            { "name": { "nl": "350 g/m² silk mc" }, "parent": "1gr_silk_mc", "description": {}, "slug": "350gr_silk_mc" },
+            { "name": { "en": "400gr silk mc", "nl": "400 g/m² silk mc" }, "parent": "1gr_silk_mc", "description": {}, "slug": "400gr_silk_mc" },
+            { "name": { "nl": "90 g/m² Bio Top 3® naturel" }, "parent": "1gr_eco", "description": {}, "enrichments": [{ "propertySlug": "color", "optionSlug": "#f9f5ea" }], "slug": "90gr_biotop" },
+            {
+              "name": { "nl": "120 g/m² Bio Top 3® naturel" },
+              "parent": "1gr_eco",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#f9f5ea" }, { "propertySlug": "thickness", "optionSlug": "0.15" }],
+              "slug": "120gr_biotop"
+            },
+            {
+              "name": { "nl": "160 g/m² Bio Top 3® naturel" },
+              "parent": "1gr_eco",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#f9f5ea" }, { "propertySlug": "thickness", "optionSlug": "0.2" }],
+              "slug": "160gr_biotop"
+            },
+            {
+              "name": { "nl": "250 g/m² Bio Top 3® naturel" },
+              "parent": "1gr_eco",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#f9f5ea" }, { "propertySlug": "thickness", "optionSlug": "0.29" }],
+              "slug": "250gr_biotop"
+            },
+            { "name": { "nl": "300 g/m² Bio Top 3® naturel" }, "parent": "1gr_eco", "description": {}, "enrichments": [{ "propertySlug": "color", "optionSlug": "#f9f5ea" }], "slug": "300gr_biotop" },
+            {
+              "name": { "en": "90gr premium white", "nl": "90 g/m² hvo bankpost wit" },
+              "parent": "1gr_ongestreken_en_sulfaat",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#ffffff" }],
+              "slug": "90gr_hv_bankpost"
+            },
+            { "name": { "nl": "90 g/m² hvo offset" }, "parent": "1gr_ongestreken_en_sulfaat", "description": {}, "enrichments": [{ "propertySlug": "color", "optionSlug": "#ffffff" }], "slug": "90gr_hvo" },
+            {
+              "name": { "en": "120gr hvo", "nl": "120 g/m² hvo offset" },
+              "parent": "1gr_ongestreken_en_sulfaat",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#ffffff" }, { "propertySlug": "thickness", "optionSlug": "0.16" }],
+              "slug": "120gr_hvo"
+            },
+            {
+              "name": { "nl": "170 g/m² hvo offset" },
+              "parent": "1gr_ongestreken_en_sulfaat",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#ffffff" }, { "propertySlug": "thickness", "optionSlug": "0.17" }],
+              "slug": "170gr_hvo"
+            },
+            {
+              "name": { "en": "250gr hvo", "nl": "250 g/m² hvo offset" },
+              "parent": "1gr_ongestreken_en_sulfaat",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#ffffff" }, { "propertySlug": "thickness", "optionSlug": "0.27" }],
+              "slug": "250gr_hvo"
+            },
+            {
+              "name": { "en": "300gr hvo", "nl": "300 g/m² hvo offset" },
+              "parent": "1gr_ongestreken_en_sulfaat",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#ffffff" }],
+              "slug": "300gr_hvo"
+            },
+            { "name": { "nl": "300 g/m² MultiCard® eenzijdig gestreken sulfaatkarton" }, "parent": "1gr_ongestreken_en_sulfaat", "description": {}, "slug": "300gr_sbs" },
+            {
+              "name": { "en": "250gr Tinteretto Gesso", "nl": "250 g/m² Tintoretto Gesso (gehamerd)" },
+              "parent": "1gr_specials",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#ffffff" }, { "propertySlug": "thickness", "optionSlug": "0.36" }],
+              "slug": "250gr_tintoretto_gesso"
+            },
+            {
+              "name": { "nl": "300 g/m² Tintoretto Gesso (gehamerd)" },
+              "parent": "1gr_specials",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#ffffff" }],
+              "slug": "300gr_tintoretto_gesso"
+            },
+            {
+              "name": { "nl": "280 g/m² Constellations Snow (linnenpers)" },
+              "parent": "1gr_specials",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#ffffff" }, { "propertySlug": "thickness", "optionSlug": "0.33" }],
+              "slug": "280gr_linnen"
+            },
+            {
+              "name": { "nl": "283 g/m² kraft bruin" },
+              "parent": "1gr_specials",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#c2a07b" }, { "propertySlug": "thickness", "optionSlug": "0.54" }],
+              "slug": "280gr_kraft"
+            },
+            { "name": { "nl": "381 g/m² kraft bruin" }, "parent": "1gr_specials", "description": {}, "enrichments": [{ "propertySlug": "color", "optionSlug": "#c2a07b" }], "slug": "381gr_kraft" },
+            {
+              "name": { "nl": "300 g/m² Sirio metallic wit" },
+              "parent": "1gr_specials",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "radial-gradient(farthest-corner at 40px 40px,       #fafafb 0%, #f9f9ff 100%)" }],
+              "slug": "300gr_metallic_white"
+            },
+            {
+              "name": { "nl": "350 g/m² Sirio metallic wit" },
+              "parent": "1gr_specials",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "radial-gradient(farthest-corner at 40px 40px, #fafafb 0%, #f9f9ff 100%)" }],
+              "slug": "350gr_metallic_white"
+            },
+            {
+              "name": { "nl": "300 g/m² Sirio metallic parelmoer" },
+              "parent": "1gr_specials",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "radial-gradient(farthest-corner at 40px 40px, #fafafb 0%, #fff3ee 100%)" }],
+              "slug": "300gr_metallic_pearl"
+            },
+            {
+              "name": { "nl": "300 g/m² Sirio metallic goud" },
+              "parent": "1gr_specials",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "linear-gradient(to bottom right, #aa9c31, #d0c047)" }],
+              "slug": "300gr_metallic_gold"
+            },
+            {
+              "name": { "nl": "300 g/m² Sirio metallic zilver" },
+              "parent": "1gr_specials",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "linear-gradient(to bottom right, #a5afb7, #c0c7cc)" }],
+              "slug": "300gr_metallic_silver"
+            },
+            {
+              "name": { "nl": "158 g/m² YUPOBlue® - scheurvast, waterproof" },
+              "parent": "1gr_yupo",
+              "description": {},
+              "slug": "200gr_yupo",
+              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.2" }]
+            },
+            {
+              "name": { "nl": "200 g/m² YUPOBlue® - scheurvast, waterproof" },
+              "parent": "1gr_yupo",
+              "description": {},
+              "slug": "250gr_yupo",
+              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.25" }]
+            },
+            {
+              "name": { "nl": "234 g/m² YUPOBlue® - scheurvast, waterproof" },
+              "parent": "1gr_yupo",
+              "description": {},
+              "slug": "300gr_yupo_blue_ypi",
+              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.3" }]
+            },
+            {
+              "name": { "nl": "276 g/m² YUPOBlue® - scheurvast, waterproof" },
+              "parent": "1gr_yupo",
+              "description": {},
+              "slug": "350gr_yupo_blue_ypi",
+              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.35" }]
+            },
+            {
+              "name": { "nl": "319 g/m² YUPOBlue® - scheurvast, waterproof" },
+              "parent": "1gr_yupo",
+              "description": {},
+              "slug": "400gr_yupo",
+              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.4" }]
+            },
+            { "name": { "nl": "Gesatineerd mc" }, "description": {}, "slug": "1gr_gesatineerd_mc" },
+            { "name": { "nl": "Silk mc" }, "description": {}, "slug": "1gr_silk_mc" },
+            { "name": { "nl": "Eco/recycled uitstraling" }, "description": {}, "slug": "1gr_eco" },
+            { "name": { "nl": "Ongestreken en sulfaatkarton" }, "description": {}, "slug": "1gr_ongestreken_en_sulfaat" },
+            { "name": { "en": "1gr Specials", "nl": "Specials" }, "description": {}, "slug": "1gr_specials" },
+            { "name": { "nl": "YUPO® (synthetisch papier, basis van PP)" }, "description": {}, "slug": "1gr_yupo" },
+            {
+              "name": { "nl": "90 g/m² Paperwise® Earth Pact Natural" },
+              "parent": "1gr_eco",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#eee2d1" }],
+              "slug": "90gr_paperwise_earth_pact_natural"
+            },
+            {
+              "name": { "nl": "150 g/m² Paperwise® Earth Pact Natural" },
+              "parent": "1gr_eco",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#eee2d1" }, { "propertySlug": "thickness", "optionSlug": "0.19" }],
+              "slug": "150gr_paperwise_earth_pact_natural"
+            },
+            {
+              "name": { "nl": "295 g/m² Paperwise® Earth Pact Natural" },
+              "parent": "1gr_eco",
+              "description": {},
+              "enrichments": [{ "propertySlug": "color", "optionSlug": "#eee2d1" }],
+              "slug": "295gr_paperwise_earth_pact_natural"
+            }
+          ],
+          "propertySlug": "material",
+          "optionsInSummary": [
+            "135gr_gesatineerd_mc",
+            "170gr_gesatineerd_mc",
+            "250gr_gesatineerd_mc",
+            "135gr_silk_mc",
+            "170gr_silk_mc",
+            "250gr_silk_mc",
+            "300gr_silk_mc",
+            "400gr_silk_mc",
+            "90gr_hvo",
+            "170gr_hvo",
+            "300gr_hvo"
+          ],
+          "title": { "en": "Material", "nl": "Materiaal" },
+          "type": "radio",
+          "viewMode": { "reseller": "summary-modal", "storefront": "default" },
+          "slug": "material"
+        },
+        {
+          "options": [
+            { "name": { "en": "Geen", "nl": "Geen" }, "description": {}, "supplierCheck": true, "nullable": true, "slug": "geen" },
+            { "name": { "en": "Laminaat", "nl": "Laminaat" }, "description": {}, "supplierCheck": true, "nullable": false, "slug": "laminaat" },
+            {
+              "name": { "en": "Single sided gloss lamination", "nl": "Enkelzijdig glanslaminaat" },
+              "parent": "laminaat",
+              "description": {},
+              "supplierCheck": true,
+              "nullable": false,
+              "slug": "single_sided_gloss_lamination"
+            },
+            {
+              "name": { "en": "Single sided matt lamination", "nl": "Enkelzijdig matlaminaat" },
+              "parent": "laminaat",
+              "description": {},
+              "supplierCheck": true,
+              "nullable": false,
+              "slug": "single_sided_matt_lamination"
+            },
+            {
+              "parent": "laminaat",
+              "excludes": [],
+              "nullable": false,
+              "name": { "en": "Double sided gloss lamination", "nl": "Dubbelzijdig glanslaminaat" },
+              "description": {},
+              "supplierCheck": true,
+              "slug": "double_sided_gloss_lamination"
+            },
+            {
+              "parent": "laminaat",
+              "excludes": [],
+              "nullable": false,
+              "name": { "en": "Double sided matt lamination", "nl": "Dubbelzijdig matlaminaat" },
+              "description": {},
+              "supplierCheck": true,
+              "slug": "double_sided_matt_lamination"
+            },
+            { "name": { "en": "Soft touch laminaat", "nl": "Softtouch laminaat" }, "description": {}, "supplierCheck": true, "slug": "soft_touch" },
+            {
+              "name": { "en": "Single soft touch matt lamination", "nl": "Enkelzijdig softtouch matlaminaat" },
+              "parent": "soft_touch",
+              "description": {},
+              "supplierCheck": true,
+              "slug": "single_soft_touch_lamination"
+            },
+            {
+              "name": { "en": "Double soft touch matt lamination", "nl": "Dubbelzijdig softtouch matlaminaat" },
+              "parent": "soft_touch",
+              "description": {},
+              "supplierCheck": true,
+              "slug": "double_soft_touch_lamination"
+            },
+            { "name": { "en": "scratch resistant", "nl": "Krasvast matlaminaat" }, "description": {}, "supplierCheck": true, "slug": "scratch_resistant" },
+            {
+              "name": { "en": "single sided scratch resistant laminate", "nl": "Enkelzijdig krasvast matlaminaat" },
+              "parent": "scratch_resistant",
+              "description": {},
+              "supplierCheck": true,
+              "slug": "single_sided_scratch_resistant_laminate"
+            },
+            {
+              "name": { "en": "double sided scratch resistant laminate", "nl": "Dubbelzijdig krasvast matlaminaat" },
+              "parent": "scratch_resistant",
+              "supplierCheck": true,
+              "slug": "double_sided_scratch_resistant_laminate"
+            }
+          ],
+          "propertySlug": "finish",
+          "optionsInSummary": ["geen", "double_sided_gloss_lamination", "double_sided_matt_lamination", "double_soft_touch_lamination", "double_sided_scratch_resistant_laminate"],
+          "title": { "en": "Finish", "nl": "All-over veredeling" },
+          "type": "radio",
+          "viewMode": { "reseller": "summary-modal", "storefront": "default" },
+          "slug": "finish"
+        },
+        {
+          "options": [
+            { "name": { "en": "none", "nl": "Geen" }, "description": {}, "supplierCheck": false, "nullable": true, "slug": "none" },
+            { "name": { "en": "group partial gloss", "nl": "Hoogglans uv-lak spot" }, "description": {}, "supplierCheck": false, "nullable": false, "slug": "group_partial_gloss" },
+            {
+              "name": { "en": "single sided partial gloss", "nl": "Enkelzijdig hoogglans uv-lak spot" },
+              "parent": "group_partial_gloss",
+              "description": {},
+              "supplierCheck": true,
+              "slug": "single_sided_partial_gloss"
+            },
+            {
+              "name": { "en": "single sided embossed partial gloss", "nl": "Enkelzijdig extra opdikkend hoogglans uv-lak spot" },
+              "parent": "group_partial_gloss",
+              "supplierCheck": true,
+              "slug": "single_sided_embossed_partial_gloss"
+            },
+            { "name": { "en": "double_sided_partial_gloss", "nl": "Dubbelzijdig hoogglans uv-lak spot" }, "parent": "group_partial_gloss", "supplierCheck": true, "slug": "double_sided_partial_gloss" },
+            {
+              "name": { "en": "double_sided_embossed_partial_gloss", "nl": "Dubbelzijdig extra opdikkend hoogglans uv-lak spot" },
+              "parent": "group_partial_gloss",
+              "supplierCheck": true,
+              "slug": "double_sided_embossed_partial_gloss"
+            },
+            { "name": { "en": "group foils", "nl": "Foliedruk" }, "supplierCheck": false, "nullable": false, "slug": "group_foils" },
+            { "name": { "en": "single_sided_foil_gold", "nl": "Enkelzijdig foliedruk goud" }, "parent": "group_foils", "supplierCheck": true, "nullable": false, "slug": "single_sided_foil_gold" },
+            { "name": { "en": "single_sided_foil_silver", "nl": "Enkelzijdig foliedruk zilver" }, "parent": "group_foils", "supplierCheck": true, "nullable": false, "slug": "single_sided_foil_silver" },
+            { "name": { "en": "single_sided_foil_copper", "nl": "Enkelzijdig foliedruk koper" }, "parent": "group_foils", "supplierCheck": true, "nullable": false, "slug": "single_sided_foil_copper" },
+            { "name": { "en": "double_sided_foil_gold", "nl": "Dubbelzijdig foliedruk goud" }, "parent": "group_foils", "supplierCheck": true, "nullable": false, "slug": "double_sided_foil_gold" },
+            { "name": { "en": "double_sided_foil_silver", "nl": "Dubbelzijdig foliedruk zilver" }, "parent": "group_foils", "supplierCheck": true, "nullable": false, "slug": "double_sided_foil_silver" },
+            { "name": { "en": "double_sided_foil_copper", "nl": "Dubbelzijdig foliedruk koper" }, "parent": "group_foils", "supplierCheck": true, "nullable": false, "slug": "double_sided_foil_copper" },
+            { "name": { "en": "Coldfoil", "nl": "Coldfoil" }, "supplierCheck": true, "slug": "coldfoil" },
+            { "name": { "en": "sigle sided cold foil", "nl": "Enkelzijdig coldfoil" }, "parent": "coldfoil", "description": {}, "supplierCheck": true, "slug": "sigle_sided_cold_foil" }
+          ],
+          "propertySlug": "spot_finish",
+          "optionsInSummary": ["none", "single_sided_embossed_partial_gloss", "single_sided_foil_silver", "double_sided_partial_gloss", "double_sided_foil_gold", "sigle_sided_cold_foil"],
+          "title": { "en": "spot finish", "nl": "Spot veredeling" },
+          "type": "radio",
+          "viewMode": { "reseller": "summary-modal" },
+          "slug": "spot_finish"
+        }
+      ]
+    },
+    {
+      "columnWidth": { "reseller": "third", "storefront": "third" },
+      "inSelector": true,
+      "title": { "en": "Copies", "nl": "Aantal" },
+      "properties": [
+        {
+          "copyLimit": { "digital": 5000 },
+          "options": [
+            { "name": { "en": "10", "nl": "10 folders" }, "type": "digital", "slug": "10" },
+            { "name": { "en": "25", "nl": "25 folders" }, "type": "digital", "slug": "25" },
+            { "name": { "en": "50", "nl": "50 folders" }, "type": "digital", "slug": "50" },
+            { "name": { "en": "100", "nl": "100 folders" }, "type": "digital", "slug": "100" }
+          ],
+          "propertySlug": "copies",
+          "rangeSets": [
+            {
+              "summary": [500, 1000, 1500, 2000, 2500, 3000, 4000, 5000, 6000, 7000, 8000, 9000, 10000, 11000, 12000, 13000, 14000, 15000],
+              "options": [{ "max": 3000, "steps": 500, "min": 0 }, { "max": 20000, "steps": 1000, "min": 3000 }, { "max": 250000, "steps": 2500, "min": 20000 }],
+              "printingmethod": "offset"
+            }
+          ],
+          "title": { "en": "Copies", "nl": "Aantal" },
+          "viewMode": { "reseller": "copies", "storefront": "default" },
+          "copiesInSummary": {},
+          "slug": "copies"
+        }
+      ]
+    },
+    {
+      "columnWidth": { "reseller": "hidden", "storefront": "third" },
+      "inSelector": true,
+      "title": { "en": "Hidden", "nl": "Hidden" },
+      "properties": [
+        {
+          "options": [
+            { "name": { "en": "HP Indigo digitaal", "nl": "Digitaal" }, "description": { "nl": "digitaal" }, "productName": { "en": "HP Indigo digitaal", "nl": "HP Indigo digitaal" }, "slug": "digital" },
+            { "name": { "en": "offset", "nl": "Offset" }, "description": { "nl": "offset" }, "productName": { "en": "offset", "nl": "Offset" }, "slug": "offset" }
+          ],
+          "propertySlug": "printingmethod",
+          "title": { "en": "Printingmethod", "nl": "Printmethode" },
+          "type": "radio",
+          "viewMode": { "reseller": "default", "storefront": "default" },
+          "slug": "printingmethod"
+        },
+        {
+          "options": [
+            { "name": { "en": "Standard", "nl": "Standaard" }, "description": {}, "slug": "standard" },
+            { "name": { "en": "Quick", "nl": "Snel" }, "description": {}, "slug": "quick" },
+            { "name": { "en": "Urgent", "nl": "Spoed" }, "description": {}, "supplierCheck": false, "slug": "urgent" }
+          ],
+          "propertySlug": "urgency",
+          "title": { "en": "Urgency", "nl": "Urgentie" },
+          "type": "radio",
+          "viewMode": { "reseller": "default", "storefront": "default" },
+          "slug": "urgency"
+        },
+        {
+          "options": [
+            { "name": { "en": null, "nl": "Bundelen" }, "description": { "nl": "Gelijke bundels" }, "supplierCheck": false, "nullable": false, "slug": "yes" },
+            { "name": { "en": null, "nl": null }, "description": {}, "supplierCheck": false, "nullable": true, "slug": "no" }
+          ],
+          "propertySlug": "standard_bundle",
+          "optionsInSummary": [],
+          "title": { "en": "standard bundle", "nl": "Bundelen" },
+          "type": "checkbox",
+          "viewMode": { "reseller": "default" },
+          "slug": "standard_bundle"
+        }
+      ]
+    },
+    {
+      "columnWidth": { "reseller": "extras", "storefront": "third" },
+      "inSelector": true,
+      "title": { "en": "Extras", "nl": "Extra's" },
+      "properties": [
+        {
+          "options": [
+            { "name": { "en": "no", "nl": "Nee" }, "description": {}, "nullable": true, "slug": "no" },
+            { "name": { "en": "yes", "nl": "Schoonsnijden" }, "description": { "nl": "Schoonsnijden" }, "nullable": false, "slug": "yes" }
+          ],
+          "propertySlug": "clean_cut",
+          "optionsInSummary": [],
+          "locked": true,
+          "title": { "en": "clean cut", "nl": "Schoonsnijden" },
+          "type": "checkbox",
+          "viewMode": { "reseller": "dropdown" },
+          "slug": "clean_cut"
+        },
+        {
+          "options": [
+            { "name": { "en": "no", "nl": "Plano geleverd" }, "description": { "nl": "Plano geleverd" }, "nullable": false, "slug": "no" },
+            { "name": { "en": "yes", "nl": "Gevouwen geleverd" }, "description": { "nl": "Gevouwen geleverd" }, "nullable": false, "slug": "yes" }
+          ],
+          "propertySlug": "folded",
+          "optionsInSummary": [],
+          "locked": true,
+          "title": { "en": "folded", "nl": "Vouwen" },
+          "type": "checkbox",
+          "viewMode": { "reseller": "dropdown" },
+          "slug": "folded"
+        },
+        {
+          "options": [
+            { "name": { "en": "yes", "nl": "Gerild" }, "description": { "nl": "Gerild" }, "supplierCheck": false, "nullable": false, "slug": "yes" },
+            { "name": { "en": "no", "nl": "Niet gerild" }, "description": { "nl": "Niet gerild" }, "supplierCheck": false, "nullable": false, "slug": "no" }
+          ],
+          "propertySlug": "creasing",
+          "optionsInSummary": [],
+          "locked": true,
+          "title": { "en": "creasing", "nl": "Rillen" },
+          "type": "checkbox",
+          "viewMode": { "reseller": "dropdown" },
+          "slug": "creasing"
+        },
+        {
+          "options": [
+            { "name": { "en": "1 perforation line", "nl": "1 perforatielijn" }, "description": {}, "supplierCheck": true, "excludes": [], "slug": "1_perforation_line" },
+            { "name": { "en": "2 perforation lines", "nl": "2 perforatielijnen" }, "description": {}, "supplierCheck": true, "excludes": [], "slug": "2_perforation_lines" }
+          ],
+          "propertySlug": "perforation",
+          "optionsInSummary": [],
+          "title": { "en": "Perforation", "nl": "Perforeren" },
+          "type": "radio",
+          "viewMode": { "reseller": "dropdown" },
+          "slug": "perforation"
+        },
+        {
+          "options": [
+            { "name": { "en": "numbering", "nl": "Nummeren 1 x" }, "description": { "nl": "Nummeren 1 x" }, "supplierCheck": true, "slug": "numbering" },
+            { "name": { "en": "personalize from excel", "nl": "Vanuit Excel" }, "description": { "nl": "Personaliseren vanuit Excel" }, "supplierCheck": true, "slug": "personalize_from_excel" }
+          ],
+          "propertySlug": "personalize",
+          "optionsInSummary": [],
+          "title": { "en": "personalize", "nl": "Personaliseren" },
+          "type": "radio",
+          "viewMode": { "reseller": "dropdown" },
+          "slug": "personalize"
+        },
+        {
+          "options": [
+            { "name": { "en": "yes", "nl": "Ja" }, "description": { "nl": "eigen vorm" }, "supplierCheck": true, "nullable": false, "slug": "yes" },
+            { "nullable": true, "name": { "en": "no", "nl": "Nee" }, "slug": "no" }
+          ],
+          "propertySlug": "die_cut",
+          "optionsInSummary": [],
+          "title": { "en": "Die cut", "nl": "Eigen vorm (die cut)" },
+          "type": "checkbox",
+          "viewMode": { "reseller": "dropdown" },
+          "slug": "die_cut"
+        },
+        {
+          "options": [
+            { "name": { "en": "Bundle_per_50", "nl": "per 50" }, "description": { "nl": "Bundelen per 50" }, "supplierCheck": true, "nullable": false, "slug": "bundle_per_50" },
+            { "name": { "en": "Bundle per 100", "nl": "per 100" }, "description": { "nl": "Bundelen per 100" }, "supplierCheck": true, "nullable": false, "slug": "bundle_per_100" },
+            { "name": { "en": "Bundle per 250", "nl": "per 250" }, "description": { "nl": "Bundelen per 250" }, "supplierCheck": true, "nullable": false, "slug": "bundle_per_250" },
+            { "name": { "en": "Bundle per 500", "nl": "per 500" }, "description": { "nl": "Bundelen per 500" }, "supplierCheck": true, "nullable": false, "slug": "bundle_per_500" }
+          ],
+          "propertySlug": "bundle",
+          "title": { "en": "Bundle", "nl": "Aftellen en bundelen" },
+          "type": "radio",
+          "viewMode": { "reseller": "dropdown", "storefront": "default" },
+          "slug": "bundle"
+        },
+        {
+          "options": [
+            { "name": { "en": "1", "nl": "per stuk" }, "supplierCheck": true, "excludes": [], "slug": "1" },
+            { "name": { "en": "10", "nl": "per 10" }, "description": {}, "supplierCheck": true, "excludes": [], "slug": "10" },
+            { "name": { "en": "25", "nl": "per 25" }, "description": {}, "supplierCheck": true, "excludes": [], "slug": "25" },
+            { "name": { "en": "50", "nl": "per 50" }, "description": {}, "supplierCheck": true, "excludes": [], "slug": "50" }
+          ],
+          "propertySlug": "sealed",
+          "optionsInSummary": [],
+          "title": { "en": "sealed", "nl": "Aftellen en sealen" },
+          "type": "radio",
+          "viewMode": { "reseller": "dropdown" },
+          "slug": "sealed"
+        },
+        {
+          "options": [
+            { "name": { "en": "bundle 250 boxes", "nl": "Gebundeld per 250, in dozen op pallet" }, "supplierCheck": true, "slug": "bundle_250_boxes" },
+            { "name": { "en": "Bundle 250 no boxes", "nl": "Gebundeld per 250, bundels los op pallet" }, "description": {}, "supplierCheck": true, "slug": "bundle_250_no_boxes" },
+            { "name": { "en": "bundle 500 boxes", "nl": "Gebundeld per 500, in dozen op pallet" }, "supplierCheck": true, "slug": "bundle_500_boxes" },
+            { "name": { "en": "bundle 500 no boxes", "nl": "Gebundeld per 500, bundels los op pallet" }, "supplierCheck": true, "slug": "bundle_500_no_boxes" },
+            { "name": { "en": "bundle random boxes", "nl": "Gelijke bundels, in dozen op pallet" }, "supplierCheck": true, "slug": "bundle_random_boxes" },
+            { "name": { "en": "bundle random no boxes", "nl": "Gelijke bundels, bundels los op pallet" }, "description": {}, "supplierCheck": true, "slug": "bundle_random_no_boxes" }
+          ],
+          "propertySlug": "pallet_delivery",
+          "optionsInSummary": [],
+          "title": { "en": "Pallet delivery", "nl": "Levering op pallet (verspreiders)" },
+          "type": "radio",
+          "viewMode": { "reseller": "dropdown" },
+          "slug": "pallet_delivery"
+        }
+      ]
+    }
+  ],
+  "sku": "folders"
+}

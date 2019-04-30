@@ -1,14 +1,22 @@
 # To all challengers!
-Very cool to take up this challenge for making an awesome product selector. Your task is simple yet extensive; use Vue to create the most awesome selector ever. Don't sweat the aesthetics to much but focus on clean code and the software design.
+Very cool to take up this challenge for making an awesome product selector. Your task is simple yet extensive; use Vue to create the most awesome selector ever. Make it pretty or make it functionally cool. Think about routing, state management but most of all, WOW us!
 
 ## The challenge (also software requirements)
 Create a product selector that works for three different products from our catalogue.
 
-* A menu to visit a product
-* * A user should be able to go back to the home page
-* A view where a user can configure a flyer, poster or businesscard.
-* * Impossible configurations should be displayed.
-* When the user is done configuring, the product configuration can be seen in a summary screen
+### Goals
+Let's see how far you can go!
+
+1. Navigate via a menu to a product:
+    - /product/posters
+    - /product/folders
+    - /product/posters
+2. See a product selector with available options (see json files in this Repo).
+3. Be able to select different options in the product
+4. Add a product to a cart
+5. Validate if the options is a possible option via the 'excludes' property.
+
+This is ofcourse challenging!
 
 ## Getting started
 Clone this repository. The only thing the repository contains is a JSON file with 3 products from our very own catalogue. You would first need to set-up [VueJS](https://vuejs.org/v2/guide/installation.html) in this repository.
