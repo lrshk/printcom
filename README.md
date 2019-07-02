@@ -10,7 +10,7 @@ Let's see how far you can go!
 1. Navigate via a menu to a product:
     - /product/posters
     - /product/folders
-    - /product/posters
+    - /product/businesscards
 2. See a product selector with available options (see json files in this Repo).
 3. Be able to select different options in the product
 4. Add a product to a cart
