@@ -1,409 +1,428 @@
 {
   "sku": "posters",
-  "sheet": "1240w_880h",
-  "title_single": { "en": "Posters", "nl": "Poster" },
-  "title_plural": { "en": "Posters", "nl": "Posters" },
-  "excludes": [
-    [
-      {
-        "options": [
-          "150gr_citylight",
-          "170gr_synaps",
-          "510gr_pvc",
-          "280gr_backlit_polyester",
-          "95gr_neon_papier_geel",
-          "95gr_neon_papier_groen",
-          "95gr_neon_papier_magenta",
-          "95gr_neon_papier_oranje",
-          "170gr_silk_mc"
-        ],
-        "property": "material"
-      },
-      { "options": ["offset"], "property": "printingmethod" }
-    ],
-    [
-      { "options": ["single_sided_gloss_lamination", "single_sided_matt_lamination", "double_sided_matt_lamination", "double_sided_gloss_lamination", "single_sided_whiteboard_laminate"], "property": "finish" },
-      { "options": ["offset"], "property": "printingmethod" }
-    ],
-    [
-      {
-        "options": ["510gr_pvc", "115gr_blueback", "170gr_synaps", "95gr_neon_papier_geel", "95gr_neon_papier_groen", "95gr_neon_papier_magenta", "95gr_neon_papier_oranje", "150gr_citylight"],
-        "property": "material"
-      },
-      { "options": ["single_sided_gloss_lamination", "single_sided_matt_lamination", "double_sided_gloss_lamination", "double_sided_matt_lamination", "single_sided_whiteboard_laminate"], "property": "finish" }
-    ],
-    [
-      { "options": ["yes"], "property": "poster_fold" },
-      { "options": ["abri", "a4", "b0", "b1", "b2", "b3", "a1_large", "a2_large", "a3_large", "a4_large", "b1_large", "b2_large", "b3_large", "a0"], "property": "size" }
-    ],
-    [{ "options": ["yes"], "property": "poster_fold" }, { "options": ["digital"], "property": "printingmethod" }],
-    [{ "options": ["yes"], "property": "poster_fold" }, { "options": ["115gr_blueback", "150gr_silk_mc", "510gr_pvc", "150gr_citylight", "170gr_silk_mc", "135gr_mat_mc"], "property": "material" }],
-    [
-      { "options": ["double_sided_gloss_lamination", "single_sided_matt_lamination", "double_sided_matt_lamination", "single_sided_whiteboard_laminate"], "property": "finish" },
-      { "options": ["280gr_backlit_polyester"], "property": "material" }
-    ],
-    [{ "options": ["without_boxes_on_pallet"], "property": "pallet_delivery" }, { "options": ["custom"], "property": "size" }],
-    [{ "options": ["offset"], "property": "printingmethod" }, { "options": ["yes"], "property": "die_cut" }],
-    [
-      { "options": ["10_pms_black"], "property": "printtype" },
-      {
-        "options": ["115gr_blueback", "135gr_gesatineerd_mc", "150gr_citylight", "170gr_silk_mc", "250gr_gesatineerd_mc", "510gr_pvc", "170gr_synaps", "280gr_backlit_polyester", "135gr_mat_mc"],
-        "property": "material"
-      }
-    ],
-    [{ "options": ["95gr_neon_papier_geel", "95gr_neon_papier_groen", "95gr_neon_papier_magenta", "95gr_neon_papier_oranje"], "property": "material" }, { "options": ["40"], "property": "printtype" }],
-    [{ "options": ["44"], "property": "printtype" }, { "options": ["abri", "a0", "b0", "a1_large", "a2_large", "b1_large", "custom", "b1"], "property": "size" }],
-    [
-      { "options": ["42", "43"], "property": "printtype" },
-      {
-        "options": [
-          "95gr_neon_papier_geel",
-          "95gr_neon_papier_groen",
-          "95gr_neon_papier_magenta",
-          "95gr_neon_papier_oranje",
-          "115gr_blueback",
-          "150gr_citylight",
-          "280gr_backlit_polyester",
-          "510gr_pvc",
-          "170gr_synaps",
-          "170gr_silk_mc",
-          "250gr_gesatineerd_mc",
-          "135gr_gesatineerd_mc"
-        ],
-        "property": "material"
-      }
-    ],
-    [
-      { "options": ["double_sided_gloss_lamination", "double_sided_matt_lamination"], "property": "finish" },
-      { "options": ["abri", "a0", "a1", "b0", "b1", "a1_large", "a2_large", "b1_large", "b2_large", "custom"], "property": "size" }
-    ],
-    [
-      { "property": "material", "options": ["135gr_mat_mc"] },
-      { "property": "printingmethod", "options": ["offset"] },
-      { "property": "finish", "options": ["single_sided_gloss_lamination", "single_sided_matt_lamination", "double_sided_gloss_lamination", "double_sided_matt_lamination", "single_sided_whiteboard_laminate"] }
-    ],
-    [
-      { "property": "material", "options": ["135gr_mat_mc"] },
-      { "property": "printingmethod", "options": ["offset"] },
-      { "property": "size", "options": ["a0", "a1", "a2", "a3", "a4", "b0", "b1", "b2", "b3", "a1_large", "a2_large", "a3_large", "a4_large", "b1_large", "b2_large", "b3_large", "custom"] }
-    ],
-    [
-      { "property": "size", "options": ["abri"] },
-      { "property": "printingmethod", "options": ["offset"] },
-      {
-        "property": "material",
-        "options": [
-          "95gr_neon_papier_geel",
-          "95gr_neon_papier_groen",
-          "95gr_neon_papier_magenta",
-          "95gr_neon_papier_oranje",
-          "115gr_blueback",
-          "135gr_gesatineerd_mc",
-          "150gr_citylight",
-          "170gr_silk_mc",
-          "170gr_synaps",
-          "280gr_backlit_polyester",
-          "250gr_gesatineerd_mc",
-          "510gr_pvc"
-        ]
-      }
-    ],
-    [{ "property": "printtype", "options": ["42", "43"] }, { "property": "printingmethod", "options": ["digital"] }],
-    [{ "property": "package_type", "options": ["poster_photo_packag"] }, { "property": "printingmethod", "options": ["offset"] }],
-    [{ "property": "package_type", "options": ["yes"] }, { "property": "printingmethod", "options": ["offset"] }],
-    [
-      { "property": "printtype", "options": ["44"] },
-      {
-        "property": "material",
-        "options": [
-          "95gr_neon_papier_geel",
-          "95gr_neon_papier_groen",
-          "95gr_neon_papier_magenta",
-          "95gr_neon_papier_oranje",
-          "115gr_blueback",
-          "135gr_mat_mc",
-          "150gr_citylight",
-          "170gr_synaps",
-          "280gr_backlit_polyester",
-          "510gr_pvc"
-        ]
-      }
-    ],
-    [{ "property": "printtype", "options": ["44"] }, { "property": "finish", "options": ["single_sided_gloss_lamination", "single_sided_matt_lamination", "single_sided_whiteboard_laminate"] }],
-    [{ "property": "size", "options": ["b0_plus", "b1_plus", "b2_plus", "a0_plus", "a1_plus"] }, { "property": "printingmethod", "options": ["offset"] }],
-    [{ "property": "size", "options": ["a1", "b2_large", "b1_plus", "b2_plus", "a0_plus", "a1_plus"] }, { "property": "printingmethod", "options": ["digital"] }, { "property": "printtype", "options": ["44"] }]
-  ],
-  "propertyGroups": [
+  "active": true,
+  "titleSingle": "Poster",
+  "titlePlural": "Posters",
+  "properties": [
     {
-      "columnWidth": { "reseller": "third", "storefront": "third" },
-      "inSelector": true,
-      "title": { "en": "Formaat", "nl": "Formaat" },
-      "properties": [
+      "slug": "size",
+      "title": "Formaat (breedte x hoogte)",
+      "locked": false,
+      "options": [
         {
-          "options": [
-            { "name": { "nl": "Abri - 1185 x 1750 mm" }, "width": 1185, "parent": "a_formaten", "description": {}, "slug": "abri", "height": 1750 },
-            { "parent": "a_formaten", "name": { "nl": "A0 - 840 x 1189 mm" }, "width": "840", "description": {}, "sheet": null, "slug": "a0", "height": "1189" },
-            { "name": { "nl": "A1 - 594 x 840 mm" }, "width": "594", "parent": "a_formaten", "description": {}, "slug": "a1", "height": "840" },
-            { "name": { "nl": "A2 - 420 x 594 mm" }, "width": "420", "parent": "a_formaten", "description": {}, "slug": "a2", "height": "594" },
-            { "parent": "a_formaten", "name": { "nl": "A3 - 297 x 420 mm" }, "width": 297, "description": {}, "sheet": null, "slug": "a3", "height": 420 },
-            { "name": { "nl": "A4 - 210 x 297 mm" }, "width": "210", "parent": "a_formaten", "description": {}, "slug": "a4", "height": "297" },
-            { "parent": "b_formaten", "name": { "nl": "B0 - 1000 x 1400 mm" }, "width": 1000, "description": {}, "sheet_offset": "1440w_1040h", "slug": "b0", "height": 1400 },
-            { "parent": "b_formaten", "name": { "nl": "B1 - 700 x 1000 mm" }, "width": 700, "description": {}, "sheet": "1440w_1040h", "sheet_offset": "1440w_1040h", "slug": "b1", "height": 1000 },
-            { "parent": "b_formaten", "name": { "nl": "B2 - 500 x 700 mm" }, "width": 500, "description": {}, "sheet_offset": "1440w_1040h", "slug": "b2", "height": 700 },
-            { "parent": "b_formaten", "name": { "nl": "B3 - 350 x 500 mm" }, "width": "350", "description": {}, "sheet_offset": "1440w_1040h", "slug": "b3", "height": "500" },
-            { "name": { "en": "A1 large", "nl": "A1 large - 420 x 1189 mm" }, "width": 420, "parent": "specials", "description": {}, "slug": "a1_large", "height": 1189 },
-            { "name": { "en": "a2 large", "nl": "A2 large - 297 x 840 mm" }, "width": 297, "parent": "specials", "description": {}, "slug": "a2_large", "height": 840 },
-            { "name": { "nl": "A3 large - 210 x 597 mm" }, "width": 210, "parent": "specials", "description": {}, "slug": "a3_large", "height": 597 },
-            { "name": { "nl": "A4 large - 148 x 420 mm" }, "width": "148", "parent": "specials", "description": {}, "slug": "a4_large", "height": 420 },
-            { "name": { "en": "b1 large", "nl": "B1 large - 500 x 14000 mm" }, "width": 500, "parent": "specials", "description": {}, "slug": "b1_large", "height": 1400 },
-            { "name": { "en": "b2 large", "nl": "B2 large - 350 x 1000 mm" }, "width": 350, "parent": "specials", "description": {}, "slug": "b2_large", "height": 1000 },
-            { "name": { "en": "b3 large", "nl": "B3 large - 250 x 700 mm" }, "width": 250, "parent": "specials", "description": {}, "slug": "b3_large", "height": 700 },
-            { "name": { "nl": "A-formaten" }, "width": 1, "parent": null, "description": {}, "slug": "a_formaten", "height": 1 },
-            { "name": { "nl": "Stoepbord posters" }, "width": 1, "description": {}, "slug": "pavement_sign", "height": 1 },
-            { "name": { "en": "B Formaten", "nl": "B-formaten" }, "width": 1, "description": {}, "slug": "b_formaten", "height": 1 },
-            { "name": { "nl": "Specials" }, "width": 1, "description": {}, "slug": "specials", "height": 1 },
-            { "name": { "nl": "B1 stoepbord - 730 x 1030 mm" }, "width": 730, "parent": "pavement_sign", "description": {}, "slug": "b1_plus", "height": 1030 },
-            { "name": { "nl": "B2 stoepbord - 530 x 730 mm" }, "width": 530, "parent": "pavement_sign", "description": {}, "slug": "b2_plus", "height": 730 },
-            { "name": { "nl": "A0 stoepbord - 870 x 1219 mm" }, "width": "870", "parent": "pavement_sign", "description": {}, "slug": "a0_plus", "height": "1219" },
-            { "name": { "nl": "A1 stoepbord - 624 x 870 mm" }, "width": "624", "parent": "pavement_sign", "description": {}, "slug": "a1_plus", "height": 870 },
-            { "customSizes": { "minHeight": 148, "minWidth": 148, "maxHeight": 50000, "maxWidth": 1300 }, "slug": "custom" },
-            { "name": { "nl": "A2 stoepbord - 450 x 624 mm" }, "width": 450, "description": {}, "parent": "pavement_sign", "slug": "a2_plus", "height": 624 }
-          ],
-          "propertySlug": "size",
-          "optionsInSummary": ["abri", "a0", "a1", "a2", "a3", "b0", "b1", "b2", "a1_plus"],
-          "title": { "en": "Size", "nl": "Formaat (breedte x hoogte)" },
-          "type": "radio",
-          "viewMode": { "reseller": "summary-modal", "storefront": "default" },
-          "slug": "size"
+          "slug": "abri",
+          "name": "Abri - 1185 x 1750 mm",
+          "nullable": false
         },
         {
-          "options": [
-            { "name": { "en": "10 pms black", "nl": "1/0 PMS zwart" }, "parent": "pms", "description": {}, "nullable": false, "slug": "10_pms_black" },
-            { "name": { "en": "4/0 Full Color", "nl": "4/0 full color " }, "parent": "full_color", "description": {}, "nullable": false, "slug": "40" },
-            { "name": { "en": "4/2", "nl": "4/2" }, "parent": "full_color_backside_abri", "description": {}, "nullable": false, "slug": "42" },
-            { "name": { "en": "43", "nl": "4/3" }, "parent": "full_color_backside_abri", "description": {}, "nullable": false, "slug": "43" },
-            { "name": { "en": "44", "nl": "4/4 full color" }, "parent": "full_color", "description": {}, "excludes": [], "nullable": false, "slug": "44" },
-            { "name": { "en": "Full color", "nl": "Full color" }, "description": {}, "nullable": false, "slug": "full_color" },
-            { "name": { "en": "PMS", "nl": "PMS" }, "description": {}, "nullable": false, "slug": "pms" },
-            { "name": { "en": "full color backside abri", "nl": "Full color met tegendruk (Abri posters)" }, "description": {}, "nullable": false, "slug": "full_color_backside_abri" }
-          ],
-          "propertySlug": "printtype",
-          "optionsInSummary": ["40", "44"],
-          "title": { "en": "Printtype", "nl": "Bedrukking" },
-          "type": "radio",
-          "viewMode": { "reseller": "summary-modal", "storefront": "default" },
-          "slug": "printtype"
+          "slug": "a0",
+          "name": "A0 - 840 x 1189 mm",
+          "nullable": false
+        },
+        {
+          "slug": "a1",
+          "name": "A1 - 594 x 840 mm",
+          "nullable": false
+        },
+        {
+          "slug": "a2",
+          "name": "A2 - 420 x 594 mm",
+          "nullable": false
+        },
+        {
+          "slug": "a3",
+          "name": "A3 - 297 x 420 mm",
+          "nullable": false
+        },
+        {
+          "slug": "a4",
+          "name": "A4 - 210 x 297 mm",
+          "nullable": false
+        },
+        {
+          "slug": "b0",
+          "name": "B0 - 1000 x 1400 mm",
+          "nullable": false
+        },
+        {
+          "slug": "b1",
+          "name": "B1 - 700 x 1000 mm",
+          "nullable": false
+        },
+        {
+          "slug": "b2",
+          "name": "B2 - 500 x 700 mm",
+          "nullable": false
+        },
+        {
+          "slug": "b3",
+          "name": "B3 - 350 x 500 mm",
+          "nullable": false
+        },
+        {
+          "slug": "a1_large",
+          "name": "A1 large - 420 x 1189 mm",
+          "nullable": false
+        },
+        {
+          "slug": "a2_large",
+          "name": "A2 large - 297 x 840 mm",
+          "nullable": false
+        },
+        {
+          "slug": "a3_large",
+          "name": "A3 large - 210 x 597 mm",
+          "nullable": false
+        },
+        {
+          "slug": "a4_large",
+          "name": "A4 large - 148 x 420 mm",
+          "nullable": false
+        },
+        {
+          "slug": "b1_large",
+          "name": "B1 large - 500 x 1400 mm",
+          "nullable": false
+        },
+        {
+          "slug": "b2_large",
+          "name": "B2 large - 350 x 1000 mm",
+          "nullable": false
+        },
+        {
+          "slug": "b3_large",
+          "name": "B3 large - 250 x 700 mm",
+          "nullable": false
+        },
+        {
+          "slug": "b1_plus",
+          "name": "B1 stoepbord - 730 x 1030 mm",
+          "nullable": false
+        },
+        {
+          "slug": "b2_plus",
+          "name": "B2 stoepbord - 530 x 730 mm",
+          "nullable": false
+        },
+        {
+          "slug": "a0_plus",
+          "name": "A0 stoepbord - 870 x 1219 mm",
+          "nullable": false
+        },
+        {
+          "slug": "a1_plus",
+          "name": "A1 stoepbord - 624 x 870 mm",
+          "nullable": false
+        },
+        {
+          "slug": "custom",
+          "nullable": false,
+          "customSizes": {
+            "minHeight": 100,
+            "sizeUnit": "MM",
+            "minWidth": 100,
+            "maxHeight": 5000,
+            "maxWidth": 1300
+          }
+        },
+        {
+          "slug": "a2_plus",
+          "name": "A2 stoepbord - 450 x 624 mm",
+          "nullable": false
         }
       ]
     },
     {
-      "columnWidth": { "reseller": "third", "storefront": "third" },
-      "inSelector": true,
-      "title": { "en": "Materiaal", "nl": "Materiaal" },
-      "properties": [
+      "slug": "printtype",
+      "title": "Bedrukking",
+      "locked": false,
+      "options": [
         {
-          "options": [
-            { "name": { "nl": "95 g/m² Neonpapier geel" }, "parent": "1gr_fluoriserend_neon", "description": {}, "slug": "95gr_neon_papier_geel" },
-            { "name": { "nl": "95 g/m² Neonpapier groen" }, "parent": "1gr_fluoriserend_neon", "description": {}, "slug": "95gr_neon_papier_groen" },
-            { "name": { "nl": "95 g/m² Neonpapier magenta" }, "parent": "1gr_fluoriserend_neon", "description": {}, "slug": "95gr_neon_papier_magenta" },
-            { "name": { "nl": "95 g/m² Neonpapier oranje" }, "parent": "1gr_fluoriserend_neon", "description": {}, "slug": "95gr_neon_papier_oranje" },
-            {
-              "name": { "nl": "115 g/m² Blueback - beperkt waterproof" },
-              "parent": "1gr_waterproof",
-              "description": {},
-              "slug": "115gr_blueback",
-              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.15" }]
-            },
-            {
-              "name": { "en": "135gr Gesatineerd MC", "nl": "135 g/m² gesatineerd mc" },
-              "parent": "1gr_gesatineerd_mc",
-              "description": {},
-              "slug": "135gr_gesatineerd_mc",
-              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.1064" }]
-            },
-            {
-              "name": { "en": "135gr mat mc", "nl": "135 g/m² mat mc" },
-              "parent": "1gr_mat",
-              "description": {},
-              "slug": "135gr_mat_mc",
-              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.1064" }]
-            },
-            { "name": { "nl": "150 g/m² Citylight" }, "parent": "1gr_specials", "description": {}, "slug": "150gr_citylight" },
-            { "name": { "nl": "170 g/m² silk mc" }, "parent": "1gr_mat", "description": {}, "slug": "170gr_silk_mc", "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.147" }] },
-            { "name": { "en": "170 g/m² Synaps® (tear proof and water proof) ", "nl": "170 g/m² Synaps® - scheurvast, waterproof" }, "parent": "1gr_waterproof", "description": {}, "slug": "170gr_synaps" },
-            {
-              "name": { "en": "250 gr/m² satinated mc", "nl": "250 g/m² gesatineerd mc" },
-              "parent": "1gr_gesatineerd_mc",
-              "description": {},
-              "slug": "250gr_gesatineerd_mc",
-              "enrichments": [{ "propertySlug": "thickness", "optionSlug": "0.217" }]
-            },
-            { "name": { "en": "280gr Backlit polyester", "nl": "280 g/m² Backlit translucente film (205µ)" }, "parent": "1gr_specials", "description": {}, "slug": "280gr_backlit_polyester" },
-            { "name": { "nl": "510 g/m² frontlit B1 (PVC)" }, "parent": "1gr_waterproof", "description": {}, "slug": "510gr_pvc" },
-            { "name": { "nl": "Gesatineerd mc" }, "description": {}, "slug": "1gr_gesatineerd_mc" },
-            { "name": { "en": "1gr waterproof", "nl": "Waterproof" }, "description": {}, "slug": "1gr_waterproof" },
-            { "name": { "nl": "Silk mc" }, "description": {}, "slug": "1gr_mat" },
-            { "name": { "en": "1gr fluoriserend neon", "nl": "Fluoriserend neon" }, "description": {}, "slug": "1gr_fluoriserend_neon" },
-            { "name": { "en": "1gr Specials", "nl": "Specials" }, "description": {}, "slug": "1gr_specials" }
-          ],
-          "propertySlug": "material",
-          "optionsInSummary": ["95gr_neon_papier_geel", "115gr_blueback", "135gr_gesatineerd_mc", "135gr_mat_mc", "170gr_silk_mc", "170gr_synaps", "250gr_gesatineerd_mc"],
-          "title": { "en": "material", "nl": "Materiaal" },
-          "type": "radio",
-          "viewMode": { "reseller": "summary-modal", "storefront": "default" },
-          "slug": "material"
+          "slug": "10_pms_black",
+          "name": "1/0 PMS zwart",
+          "nullable": false
         },
         {
-          "options": [
-            { "name": { "en": "Geen", "nl": "Geen" }, "description": {}, "supplierCheck": true, "nullable": true, "slug": "geen" },
-            { "name": { "en": "Single sided gloss lamination", "nl": "Enkelzijdig glanslaminaat" }, "description": {}, "supplierCheck": true, "nullable": false, "slug": "single_sided_gloss_lamination" },
-            { "name": { "en": "Single sided matt lamination", "nl": "Enkelzijdig matlaminaat" }, "description": {}, "supplierCheck": true, "nullable": false, "slug": "single_sided_matt_lamination" },
-            {
-              "name": { "en": "single sided whiteboard laminate", "nl": "Enkelzijdig whiteboardlaminaat polymeer glans - Prime" },
-              "description": {},
-              "supplierCheck": true,
-              "slug": "single_sided_whiteboard_laminate"
-            },
-            {
-              "name": { "en": "Double sided gloss lamination", "nl": "Dubbelzijdig glanslaminaat" },
-              "description": {},
-              "supplierCheck": true,
-              "excludes": [],
-              "nullable": false,
-              "slug": "double_sided_gloss_lamination"
-            },
-            {
-              "name": { "en": "Double sided matt lamination", "nl": "Dubbelzijdig matlaminaat" },
-              "description": {},
-              "supplierCheck": true,
-              "excludes": [],
-              "nullable": false,
-              "slug": "double_sided_matt_lamination"
-            }
-          ],
-          "propertySlug": "finish",
-          "title": { "en": "Finish", "nl": "All-over veredeling" },
-          "type": "radio",
-          "viewMode": { "reseller": "default", "storefront": "default" },
-          "slug": "finish"
+          "slug": "40",
+          "name": "4/0 full color",
+          "nullable": false
+        },
+        {
+          "slug": "42",
+          "name": "4/2",
+          "nullable": false
+        },
+        {
+          "slug": "43",
+          "name": "4/3",
+          "nullable": false
+        },
+        {
+          "slug": "44",
+          "name": "4/4 full color",
+          "nullable": false
         }
       ]
     },
     {
-      "columnWidth": { "reseller": "third", "storefront": "third" },
-      "inSelector": false,
-      "title": { "en": "Aantal", "nl": "Aantal" },
-      "properties": [
+      "slug": "material",
+      "title": "Materiaal",
+      "locked": false,
+      "options": [
         {
-          "copyLimit": { "digital": 2500 },
-          "options": [
-            { "name": { "en": "1", "nl": "1" }, "type": "digital", "slug": "1" },
-            { "name": { "en": "5", "nl": "5" }, "type": "digital", "slug": "5" },
-            { "name": { "en": "10", "nl": "25" }, "type": "digital", "slug": "10" },
-            { "name": { "en": "25", "nl": "50 " }, "type": "digital", "slug": "25" },
-            { "name": { "en": "50" }, "type": "digital", "slug": "50" },
-            { "name": { "en": "75" }, "type": "digital", "slug": "75" },
-            { "name": { "en": "100" }, "type": "digital", "slug": "100" }
-          ],
-          "propertySlug": "copies",
-          "rangeSets": [
-            {
-              "summary": [50, 75, 100, 150, 200, 250, 300, 400, 500],
-              "options": [
-                { "max": 50, "steps": 50, "min": 0 },
-                { "max": 100, "steps": 25, "min": 50 },
-                { "max": 500, "steps": 50, "min": 100 },
-                { "max": 1000, "steps": 250, "min": 500 },
-                { "max": 20000, "steps": 500, "min": 1000 }
-              ],
-              "printingmethod": "offset"
-            }
-          ],
-          "title": { "en": "Copies", "nl": "Aantal" },
-          "viewMode": { "reseller": "copies", "storefront": "default" },
-          "copiesInSummary": { "digital": 7 },
-          "slug": "copies"
+          "slug": "95gr_neon_papier_geel",
+          "name": "95 g/m² Neonpapier geel",
+          "nullable": false
+        },
+        {
+          "slug": "95gr_neon_papier_groen",
+          "name": "95 g/m² Neonpapier groen",
+          "nullable": false
+        },
+        {
+          "slug": "95gr_neon_papier_magenta",
+          "name": "95 g/m² Neonpapier magenta",
+          "nullable": false
+        },
+        {
+          "slug": "95gr_neon_papier_oranje",
+          "name": "95 g/m² Neonpapier oranje",
+          "nullable": false
+        },
+        {
+          "slug": "115gr_blueback",
+          "name": "115 g/m² Blueback - beperkt waterproof",
+          "nullable": false
+        },
+        {
+          "slug": "135gr_gesatineerd_mc",
+          "name": "135 g/m² gesatineerd mc",
+          "nullable": false
+        },
+        {
+          "slug": "135gr_mat_mc",
+          "name": "135 g/m² mat mc",
+          "nullable": false
+        },
+        {
+          "slug": "150gr_silk_mc",
+          "name": "150 g/m² silk mc",
+          "nullable": false
+        },
+        {
+          "slug": "170gr_silk_mc",
+          "name": "170 g/m² silk mc",
+          "nullable": false
+        },
+        {
+          "slug": "250gr_silk_mc",
+          "name": "250 g/m² silk mc",
+          "nullable": false
+        },
+        {
+          "slug": "150gr_citylight",
+          "name": "150 g/m² Citylight",
+          "nullable": false
+        },
+        {
+          "slug": "170gr_synaps",
+          "name": "170 g/m² Synaps® - scheurvast, waterproof",
+          "nullable": false
+        },
+        {
+          "slug": "250gr_gesatineerd_mc",
+          "name": "250 g/m² gesatineerd mc",
+          "nullable": false
+        },
+        {
+          "slug": "280gr_backlit_polyester",
+          "name": "280 g/m² Backlit translucente film (205µ)",
+          "nullable": false
+        },
+        {
+          "slug": "510gr_pvc",
+          "name": "510 g/m² frontlit B1 (pvc)",
+          "nullable": false
         }
       ]
     },
     {
-      "columnWidth": { "reseller": "hidden", "storefront": "third" },
-      "inSelector": true,
-      "title": { "en": "Hidden", "nl": "Urgentie" },
-      "properties": [
+      "slug": "finish",
+      "title": "All-over veredeling",
+      "locked": false,
+      "options": [
         {
-          "options": [
-            { "name": { "en": "Quick", "nl": "Snel" }, "description": {}, "slug": "quick" },
-            { "name": { "en": "Standard", "nl": "Standaard" }, "description": {}, "slug": "standard" },
-            { "name": { "en": "Urgent", "nl": "Spoed" }, "description": {}, "supplierCheck": false, "slug": "urgent" }
-          ],
-          "propertySlug": "urgency",
-          "title": { "en": "Urgency", "nl": "Urgentie" },
-          "type": "radio",
-          "viewMode": { "reseller": "default", "storefront": "default" },
-          "slug": "urgency"
+          "slug": "geen",
+          "name": "Geen",
+          "nullable": true
         },
         {
-          "options": [
-            { "name": { "en": "HP Indigo digitaal", "nl": "Digitaal" }, "description": { "nl": "digitaal" }, "productName": { "en": "digitaal", "nl": "Océ Colorado UV (high quality) " }, "slug": "digital" },
-            { "name": { "en": "offset", "nl": "Offset" }, "description": { "nl": "offset" }, "productName": { "en": "offset", "nl": "Offset" }, "slug": "offset" }
-          ],
-          "propertySlug": "printingmethod",
-          "title": { "en": "Printingmethod", "nl": "Printmethode" },
-          "type": "radio",
-          "viewMode": { "reseller": "default", "storefront": "default" },
-          "slug": "printingmethod"
+          "slug": "single_sided_gloss_lamination",
+          "name": "Enkelzijdig glanslaminaat",
+          "description": "Enkelzijdig glanslaminaat",
+          "nullable": false
         },
         {
-          "options": [{ "name": { "en": "packaging handling", "nl": null }, "description": {}, "nullable": false, "slug": "packaging_handling" }],
-          "propertySlug": "packaging_extras",
-          "optionsInSummary": [],
-          "title": { "en": "Packaging_extras", "nl": null },
-          "type": "radio",
-          "viewMode": { "reseller": "default" },
-          "slug": "packaging_extras"
+          "slug": "single_sided_matt_lamination",
+          "name": "Enkelzijdig matlaminaat",
+          "description": "Enkelzijdig matlaminaat",
+          "nullable": false
+        },
+        {
+          "slug": "double_sided_gloss_lamination",
+          "name": "Dubbelzijdig glanslaminaat",
+          "description": "Dubbelzijdig glanslaminaat",
+          "nullable": false
+        },
+        {
+          "slug": "double_sided_matt_lamination",
+          "name": "Dubbelzijdig matlaminaat",
+          "description": "Dubbelzijdig matlaminaat",
+          "nullable": false
+        },
+        {
+          "slug": "single_sided_whiteboard_laminate",
+          "name": "Enkelzijdig whiteboardlaminaat polymeer glans - Prime",
+          "description": "Enkelzijdig whiteboardlaminaat polymeer glans - Prime",
+          "nullable": false
         }
       ]
     },
     {
-      "title": { "nl": "Afwerking" },
-      "columnWidth": { "reseller": "extras" },
-      "properties": [
+      "slug": "delivery",
+      "title": "Voorkeur verpakking",
+      "locked": false,
+      "options": [
         {
-          "options": [
-            { "name": { "en": "yes", "nl": "Schoonsnijden" }, "description": { "nl": "Schoonsnijden" }, "nullable": false, "slug": "yes" },
-            { "name": { "en": "no", "nl": "Nee" }, "description": {}, "nullable": true, "slug": "no" }
-          ],
-          "propertySlug": "clean_cut",
-          "optionsInSummary": [],
-          "locked": true,
-          "title": { "en": "clean cut", "nl": "Schoonsnijden" },
-          "type": "checkbox",
-          "viewMode": { "reseller": "dropdown" },
-          "slug": "clean_cut"
+          "slug": "default",
+          "name": "Opgerold in doos",
+          "nullable": true
         },
         {
-          "options": [{ "name": { "en": "without boxes on pallet", "nl": "Geleverd op pallet" }, "supplierCheck": true, "slug": "without_boxes_on_pallet" }],
-          "propertySlug": "pallet_delivery",
-          "optionsInSummary": [],
-          "title": { "en": "Pallet delivery", "nl": "Levering op pallet" },
-          "type": "radio",
-          "viewMode": { "reseller": "dropdown" },
-          "slug": "pallet_delivery"
+          "slug": "luxury_poster_packaging",
+          "name": "Op koker gerold, in papier gewikkeld, in omdoos",
+          "nullable": false
         },
         {
-          "options": [
-            { "name": { "en": "poster photo packag", "nl": "Op koker gerold, in papier gewikkeld, in omdoos" }, "description": { "nl": "Ja" }, "supplierCheck": true, "nullable": false, "slug": "yes" },
-            { "name": { "en": "poster photo packag", "nl": "Op koker gerold, in papier gewikkeld, in omdoos" }, "description": { "nl": "Nee" }, "nullable": true, "slug": "no" }
-          ],
-          "propertySlug": "package_type",
-          "optionsInSummary": [],
-          "title": { "en": "package type", "nl": "Op koker gerold, in papier gewikkeld, in omdoos" },
-          "type": "checkbox",
-          "viewMode": { "reseller": "dropdown" },
-          "slug": "package_type"
+          "slug": "pallet_delivery",
+          "name": "Plat op pallet (zie prijs bezorgkosten)",
+          "nullable": false
+        }
+      ]
+    },
+    {
+      "slug": "copies",
+      "locked": false,
+      "options": [
+        {
+          "slug": 1,
+          "nullable": false,
+          "type": "digital"
+        },
+        {
+          "slug": "5",
+          "nullable": false,
+          "type": "digital"
+        },
+        {
+          "slug": "10",
+          "nullable": false,
+          "type": "digital"
+        },
+        {
+          "slug": "25",
+          "nullable": false,
+          "type": "digital"
+        },
+        {
+          "slug": 50,
+          "nullable": false,
+          "type": "digital"
+        },
+        {
+          "slug": 75,
+          "nullable": false,
+          "type": "digital"
+        },
+        {
+          "slug": 100,
+          "nullable": false,
+          "type": "digital"
+        }
+      ]
+    },
+    {
+      "slug": "urgency",
+      "title": "Urgentie",
+      "locked": false,
+      "options": [
+        {
+          "slug": "quick",
+          "name": "Snel",
+          "nullable": false
+        },
+        {
+          "slug": "standard",
+          "name": "Standaard",
+          "nullable": false
+        },
+        {
+          "slug": "urgent",
+          "name": "Spoed",
+          "nullable": false
+        }
+      ]
+    },
+    {
+      "slug": "packaging_extras",
+      "title": null,
+      "locked": false,
+      "options": [
+        {
+          "slug": "packaging_handling",
+          "name": null,
+          "nullable": false
+        }
+      ]
+    },
+    {
+      "slug": "printingmethod",
+      "title": "Print methode",
+      "locked": false,
+      "options": [
+        {
+          "slug": "digital",
+          "name": "Digitaal",
+          "description": "Digitaal",
+          "nullable": false
+        },
+        {
+          "slug": "offset",
+          "name": "Offset",
+          "description": "Offset",
+          "nullable": false
+        }
+      ]
+    },
+    {
+      "slug": "clean_cut",
+      "title": "Schoonsnijden",
+      "locked": true,
+      "options": [
+        {
+          "slug": "yes",
+          "name": "Schoonsnijden",
+          "description": "Schoonsnijden",
+          "nullable": false
+        },
+        {
+          "slug": "no",
+          "name": "Nee",
+          "nullable": true
         }
       ]
     }
-  ]
+  ],
+  "maxDesigns": 50,
+  "bleed": "3"
 }
