@@ -911,5 +911,4133 @@
     }
   ],
   "maxDesigns": 50,
-  "bleed": 2
+  "bleed": 2,
+  "excludes": [
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "sigle_sided_cold_foil",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_two_foils",
+          "group_double_sided_spot-uv_plus_foil",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "geen"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "350gr_hvo",
+          "300gr_hvo",
+          "540gr_two_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "540gr_two_layer_multiloft_black",
+          "480gr_two_layer_multiloft_white",
+          "810gr_three_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_black",
+          "750gr_three_layer_multiloft_white",
+          "750gr_three_layer_multiloft_ultra_white"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "geen",
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "single_sided_uv_coating_gloss",
+          "single_sided_uv_coating_matt",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "350gr_hvo",
+          "300gr_hvo",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "350gr_sbs",
+          "350gr_sbs_invercote",
+          "300gr_sbs_symbol_card"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "double_soft_touch_lamination",
+          "double_sided_scratch_resistant_laminate",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_embossed_partial_gloss_40",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_recycled",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_silver",
+          "300gr_metallic_gold",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "500gr_sbd",
+          "400gr_yupo",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "200gr_yupo",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_max_white",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "group_foils",
+          "coldfoil",
+          "sigle_sided_cold_foil",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_double_sided_spot-uv_plus_foil",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_sbs_symbol_card",
+          "350gr_sbs",
+          "350gr_sbs_invercote"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_partial_gloss",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_double_sided_spot-uv_plus_foil",
+          "sigle_sided_cold_foil",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "250gr_tintoretto_gesso",
+          "280gr_constalations_snow_(linnen)",
+          "280gr_kraftpapier",
+          "300gr_ice_silver_metallic",
+          "300gr_kraftpapier",
+          "280gr_kraft",
+          "381gr_kraft",
+          "280gr_linnen",
+          "300gr_tintoretto_gesso",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "300gr_recycled",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_max_white",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_black"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "double_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_matt_lamination",
+          "double_sided_uv_coating",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_scratch_resistant_laminate",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "250gr_tintoretto_gesso",
+          "280gr_constalations_snow_(linnen)",
+          "280gr_kraftpapier",
+          "300gr_ice_silver_metallic",
+          "300gr_kraftpapier",
+          "500gr_sbd",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_gold",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "350gr_sbs",
+          "760gr_pvc",
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "350gr_silk_mc",
+          "300gr_metallic_silver",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "400gr_sbd",
+          "400gr_yupo",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_silk_mc",
+          "200gr_yupo",
+          "350gr_hvo_nk",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_sbs_symbol_card",
+          "300gr_cotton_gentlemen_blue",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_max_white",
+          "540gr_two_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_black",
+          "750gr_three_layer_multiloft_white",
+          "750gr_three_layer_multiloft_ultra_white",
+          "350gr_hvo",
+          "300gr_sbs",
+          "350gr_sbs_invercote",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "digital"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "10",
+          "20",
+          "30",
+          "11",
+          "22",
+          "33"
+        ],
+        "property": "printtype"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_4",
+          "singlehorizontal_4"
+        ],
+        "property": "fold"
+      },
+      {
+        "options": [
+          "500gr_sbd",
+          "540gr_two_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_black",
+          "750gr_three_layer_multiloft_white",
+          "750gr_three_layer_multiloft_ultra_white"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "350gr_sbs",
+          "350gr_sbd",
+          "350gr_sbs_invercote"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "double_sided_matt_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "50_full_color_plus_white",
+          "55_full_color_plus_white"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "300gr_silk_mc",
+          "400gr_gesatineerd_mc",
+          "350gr_silk_mc",
+          "400gr_silk_mc",
+          "300gr_recycled",
+          "300gr_biotop",
+          "300gr_sbs",
+          "350gr_sbd",
+          "500gr_sbd",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "400gr_sbd",
+          "400gr_yupo",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "200gr_yupo",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_sbs_symbol_card",
+          "350gr_sbs",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "50_full_color_plus_white",
+          "55_full_color_plus_white"
+        ],
+        "property": "printtype"
+      }
+    ],
+    [
+      {
+        "options": [
+          "290gr_sirio_color_nero",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_black"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "44",
+          "40"
+        ],
+        "property": "printtype"
+      }
+    ],
+    [
+      {
+        "options": [
+          "10",
+          "20",
+          "30",
+          "11",
+          "22",
+          "33"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "300gr_sbs_symbol_card",
+          "400gr_gesatineerd_mc",
+          "400gr_silk_mc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "soft_touch",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "geen",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_uv_coating_gloss",
+          "single_sided_uv_coating_matt"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "double_sided_partial_gloss",
+          "single_sided_partial_gloss"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_soft_touch_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "digital"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "300gr_silk_mc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "33",
+          "22",
+          "11",
+          "30",
+          "20",
+          "10"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "group_partial_gloss",
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "group_foils",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "coldfoil",
+          "double_sided_cold_foil",
+          "sigle_sided_cold_foil",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_double_sided_spot-uv_plus_foil",
+          "group_two_foils",
+          "double_sided_embossed_partial_gloss_80",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_foil_glitter",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_black",
+          "double_sided_foil_rose",
+          "single_sided_foil_glitter",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_black",
+          "single_sided_foil_rose",
+          "double_sided_foil"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "numbering",
+          "personalize_from_excel"
+        ],
+        "property": "personalize"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "double_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_matt_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "laminaat",
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "soft_touch",
+          "double_soft_touch_lamination",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "numbering",
+          "personalize_from_excel"
+        ],
+        "property": "personalize"
+      },
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      }
+    ],
+    [
+      {
+        "options": [
+          "bundle_per_100",
+          "bundle_per_500",
+          "bundle_per_250"
+        ],
+        "property": "bundle"
+      },
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "double_sided_partial_gloss",
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "400gr_gesatineerd_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "300gr_recycled",
+          "300gr_biotop",
+          "400gr_sbd",
+          "500gr_sbd",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_silver",
+          "300gr_metallic_gold",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "295gr_paperwise_earth_pact_natural",
+          "290gr_sirio_color_nero",
+          "400gr_yupo",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "200gr_yupo",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "400gr_silk_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "none"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_silk_mc",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "300gr_biotop",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "400gr_yupo",
+          "500gr_sbd",
+          "200gr_yupo"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_double_sided_spot-uv_plus_foil",
+          "group_two_foils",
+          "single_sided_foil_rose",
+          "single_sided_foil_black",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_glitter",
+          "double_sided_foil_rose",
+          "double_sided_foil_black",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_foil_glitter",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_black",
+          "double_sided_foil_rose",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "single_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "yes"
+        ],
+        "property": "die_cut"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "yes"
+        ],
+        "property": "die_cut"
+      },
+      {
+        "options": [
+          "295gr_paperwise_earth_pact_natural",
+          "290gr_sirio_color_nero",
+          "290gr_sirio_color_pietra",
+          "250gr_sirio_materica_clay",
+          "350gr_yupo_blue_ypi",
+          "300gr_yupo_blue_ypi",
+          "500gr_sbd",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "220gr_verge_naturel",
+          "220gr_verge_white",
+          "200gr_yupo",
+          "300gr_cotton_max_white",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_gentlemen_blue"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "300gr_sbs_symbol_card"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_scratch_resistant_laminate",
+          "scratch_resistant",
+          "double_soft_touch_lamination",
+          "single_soft_touch_lamination",
+          "double_sided_matt_lamination",
+          "double_sided_gloss_lamination"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "500gr_sbd"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "single_sided_matt_lamination",
+          "single_sided_gloss_lamination",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_4",
+          "singlehorizontal_4"
+        ],
+        "property": "fold"
+      },
+      {
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "property": "variable_creasing_line"
+      }
+    ],
+    [
+      {
+        "options": [
+          "1",
+          "2",
+          "4",
+          "3",
+          "5"
+        ],
+        "property": "variable_creasing_line"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_uv_coating_gloss",
+          "single_sided_uv_coating_matt"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_metallic_white",
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "400gr_gesatineerd_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "400gr_silk_mc",
+          "300gr_biotop",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_silver",
+          "300gr_metallic_gold",
+          "200gr_yupo",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "295gr_paperwise_earth_pact_natural",
+          "400gr_yupo",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "300gr_sbs",
+          "400gr_sbd",
+          "500gr_sbd",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_max_white",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue",
+          "540gr_two_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_black",
+          "750gr_three_layer_multiloft_white",
+          "750gr_three_layer_multiloft_ultra_white",
+          "810gr_three_layer_multiloft_kraft",
+          "350gr_sbs",
+          "350gr_sbs_invercote",
+          "350gr_hvo",
+          "400gr_hvo_nk",
+          "300gr_synaps"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "300gr_sbs_symbol_card",
+          "350gr_sbs"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "scratch_resistant",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_gesatineerd_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "custom:width:150-180",
+          "custom:height:150-180"
+        ],
+        "property": "size"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "group_partial_gloss",
+          "group_foils",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "sigle_sided_cold_foil",
+          "double_sided_foil_copper",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_two_foils",
+          "group_double_sided_spot-uv_plus_foil",
+          "coldfoil",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "geen",
+          "single_sided_uv_coating_matt",
+          "single_sided_uv_coating_gloss"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "540gr_two_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_black",
+          "750gr_three_layer_multiloft_white",
+          "750gr_three_layer_multiloft_ultra_white",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "bc_plus",
+          "bc_plus_portrait"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "400gr_silk_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "3,5_mm_radius"
+        ],
+        "property": "rounded_corners"
+      }
+    ],
+    [
+      {
+        "options": [
+          17000,
+          18000,
+          19000,
+          20000,
+          16000,
+          22500,
+          25000,
+          27500,
+          30000,
+          32500,
+          35000,
+          37500,
+          40000,
+          42500,
+          45000,
+          47500,
+          50000,
+          52500,
+          55000,
+          57500,
+          60000,
+          62500,
+          65000,
+          67500,
+          70000,
+          72500,
+          75000,
+          77500,
+          80000,
+          82500,
+          85000,
+          87500,
+          90000,
+          92500,
+          95000,
+          97500,
+          100000,
+          105000,
+          110000,
+          115000,
+          120000,
+          125000,
+          130000,
+          135000,
+          140000,
+          145000
+        ],
+        "property": "copies"
+      },
+      {
+        "options": [
+          "1_perforation_line"
+        ],
+        "property": "perforation"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "group_partial_gloss",
+          "group_foils",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "sigle_sided_cold_foil",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_two_foils",
+          "double_sided_embossed_partial_gloss_80",
+          "group_double_sided_spot-uv_plus_foil",
+          "single_sided_foil_rose",
+          "single_sided_foil_black",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_glitter",
+          "double_sided_foil_rose",
+          "double_sided_foil_black",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "single_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "540gr_two_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "750gr_three_layer_multiloft_ultra_white",
+          "750gr_three_layer_multiloft_white",
+          "810gr_three_layer_multiloft_black"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_foil_rainbow",
+          "double_sided_foil_gold",
+          "single_sided_foil_glitter",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "single_sided_foil_rose",
+          "single_sided_foil_copper",
+          "single_sided_foil_silver",
+          "single_sided_foil_gold",
+          "double_sided_foil_rose",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_copper"
+        ],
+        "property": "spot_foil"
+      }
+    ],
+    [
+      {
+        "options": [
+          "220gr_conqueror_vergé_diamond_white",
+          "220gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_max_white",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue",
+          "500gr_sbd"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "single_sided_foil_rose",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_glitter",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_foil_rose",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper"
+        ],
+        "property": "spot_foil"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_biotop",
+          "300gr_hvo",
+          "350gr_hvo",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "540gr_two_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_kraft",
+          "381gr_kraft",
+          "280gr_kraft",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "250gr_sirio_materica_clay",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue",
+          "300gr_cotton_max_white",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "750gr_three_layer_multiloft_ultra_white",
+          "750gr_three_layer_multiloft_white",
+          "810gr_three_layer_multiloft_black",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "geen"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "single_sided_foil_rose",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_glitter",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_foil_rose",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper"
+        ],
+        "property": "spot_foil"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_sided_partial_gloss",
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "220gr_conqueror_vergé_diamond_white",
+          "220gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "500gr_sbd",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_max_white",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "double_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination",
+          "single_sided_uv_coating_gloss"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "single_sided_foil_rose",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_glitter",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_foil_rose",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination",
+          "single_sided_uv_coating_gloss"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "350gr_hvo",
+          "350gr_hvo_nk",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "single_sided_matt_lamination",
+          "single_sided_gloss_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "300gr_hvo",
+          "350gr_hvo",
+          "300gr_hvo_nk",
+          "300gr_biotop",
+          "350gr_hvo_nk",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "300gr_hvo",
+          "300gr_silk_mc",
+          "350gr_silk_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "double_sided_partial_gloss"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_foil",
+          "double_sided_foil",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_rose",
+          "single_sided_foil_copper",
+          "single_sided_foil_glitter",
+          "single_sided_foil_rainbow",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_glitter",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_rose"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "280gr_linnen"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "businesscard_box"
+        ],
+        "property": "delivery"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_embossed_partial_gloss_80",
+          "group_single_sided_spot",
+          "double_sided_partial_gloss",
+          "group_double_sided_spot"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "businesscard_box"
+        ],
+        "property": "delivery"
+      }
+    ],
+    [
+      {
+        "options": [
+          "bundle_per_500",
+          "bundle_per_250"
+        ],
+        "property": "bundle"
+      },
+      {
+        "options": [
+          "400gr_silk_mc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "custom:width:85-86",
+          "custom:height:55-56"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "3,5_mm_radius",
+          "7_mm_radius"
+        ],
+        "property": "rounded_corners"
+      }
+    ],
+    [
+      {
+        "property": "delivery",
+        "options": [
+          "businesscard_box"
+        ]
+      },
+      {
+        "property": "size",
+        "options": [
+          "custom:width:25-90",
+          "custom:height:25-55"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "rounded_corners",
+        "options": [
+          "3,5_mm_radius",
+          "7_mm_radius"
+        ]
+      },
+      {
+        "property": "printingmethod",
+        "options": [
+          "offset"
+        ]
+      },
+      {
+        "property": "material",
+        "options": [
+          "300gr_biotop",
+          "300gr_hvo_nk",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "die_cut",
+        "options": [
+          "yes"
+        ]
+      },
+      {
+        "property": "material",
+        "options": [
+          "200gr_yupo",
+          "300gr_yupo_blue_ypi",
+          "400gr_yupo"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "material",
+        "options": [
+          "400gr_hvo_nk",
+          null
+        ]
+      },
+      {
+        "property": "delivery",
+        "options": [
+          "businesscard_box"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "fold",
+        "options": [
+          "no_fold"
+        ]
+      },
+      {
+        "property": "size",
+        "options": [
+          "custom:width:30-460",
+          "custom:height:30-460"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "material",
+        "options": [
+          "400gr_silk_mc"
+        ]
+      },
+      {
+        "property": "size",
+        "options": [
+          "bc_plus_portrait",
+          "bc_plus",
+          "custom:width:55-85",
+          "custom:height:55-85",
+          "bc_portrait",
+          "bc",
+          "custom"
+        ]
+      },
+      {
+        "property": "printingmethod",
+        "options": [
+          "offset"
+        ]
+      },
+      {
+        "property": "rounded_corners",
+        "options": [
+          "7_mm_radius"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "drillholes",
+        "options": [
+          "one_drillhole_4mm",
+          "two_drillholes_4mm",
+          "one_drillhole_5mm",
+          "two_drillholes_5mm"
+        ]
+      },
+      {
+        "property": "printtype",
+        "options": [
+          "10",
+          "20",
+          "30",
+          "11",
+          "22",
+          "33"
+        ]
+      },
+      {
+        "property": "printingmethod",
+        "options": [
+          "offset"
+        ]
+      }
+    ]
+  ]
+  "excludes": [
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "sigle_sided_cold_foil",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_two_foils",
+          "group_double_sided_spot-uv_plus_foil",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "geen"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "350gr_hvo",
+          "300gr_hvo",
+          "540gr_two_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "540gr_two_layer_multiloft_black",
+          "480gr_two_layer_multiloft_white",
+          "810gr_three_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_black",
+          "750gr_three_layer_multiloft_white",
+          "750gr_three_layer_multiloft_ultra_white"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "geen",
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "single_sided_uv_coating_gloss",
+          "single_sided_uv_coating_matt",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "350gr_hvo",
+          "300gr_hvo",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "350gr_sbs",
+          "350gr_sbs_invercote",
+          "300gr_sbs_symbol_card"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "double_soft_touch_lamination",
+          "double_sided_scratch_resistant_laminate",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_embossed_partial_gloss_40",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_recycled",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_silver",
+          "300gr_metallic_gold",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "500gr_sbd",
+          "400gr_yupo",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "200gr_yupo",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_max_white",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "group_foils",
+          "coldfoil",
+          "sigle_sided_cold_foil",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_double_sided_spot-uv_plus_foil",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_sbs_symbol_card",
+          "350gr_sbs",
+          "350gr_sbs_invercote"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_partial_gloss",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_double_sided_spot-uv_plus_foil",
+          "sigle_sided_cold_foil",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "250gr_tintoretto_gesso",
+          "280gr_constalations_snow_(linnen)",
+          "280gr_kraftpapier",
+          "300gr_ice_silver_metallic",
+          "300gr_kraftpapier",
+          "280gr_kraft",
+          "381gr_kraft",
+          "280gr_linnen",
+          "300gr_tintoretto_gesso",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "300gr_recycled",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_max_white",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_black"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "double_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_matt_lamination",
+          "double_sided_uv_coating",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_scratch_resistant_laminate",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "250gr_tintoretto_gesso",
+          "280gr_constalations_snow_(linnen)",
+          "280gr_kraftpapier",
+          "300gr_ice_silver_metallic",
+          "300gr_kraftpapier",
+          "500gr_sbd",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_gold",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "350gr_sbs",
+          "760gr_pvc",
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "350gr_silk_mc",
+          "300gr_metallic_silver",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "400gr_sbd",
+          "400gr_yupo",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_silk_mc",
+          "200gr_yupo",
+          "350gr_hvo_nk",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_sbs_symbol_card",
+          "300gr_cotton_gentlemen_blue",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_max_white",
+          "540gr_two_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_black",
+          "750gr_three_layer_multiloft_white",
+          "750gr_three_layer_multiloft_ultra_white",
+          "350gr_hvo",
+          "300gr_sbs",
+          "350gr_sbs_invercote",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "digital"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "10",
+          "20",
+          "30",
+          "11",
+          "22",
+          "33"
+        ],
+        "property": "printtype"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_4",
+          "singlehorizontal_4"
+        ],
+        "property": "fold"
+      },
+      {
+        "options": [
+          "500gr_sbd",
+          "540gr_two_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_black",
+          "750gr_three_layer_multiloft_white",
+          "750gr_three_layer_multiloft_ultra_white"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "350gr_sbs",
+          "350gr_sbd",
+          "350gr_sbs_invercote"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "double_sided_matt_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "50_full_color_plus_white",
+          "55_full_color_plus_white"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "300gr_silk_mc",
+          "400gr_gesatineerd_mc",
+          "350gr_silk_mc",
+          "400gr_silk_mc",
+          "300gr_recycled",
+          "300gr_biotop",
+          "300gr_sbs",
+          "350gr_sbd",
+          "500gr_sbd",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "400gr_sbd",
+          "400gr_yupo",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "200gr_yupo",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_sbs_symbol_card",
+          "350gr_sbs",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "50_full_color_plus_white",
+          "55_full_color_plus_white"
+        ],
+        "property": "printtype"
+      }
+    ],
+    [
+      {
+        "options": [
+          "290gr_sirio_color_nero",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_black"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "44",
+          "40"
+        ],
+        "property": "printtype"
+      }
+    ],
+    [
+      {
+        "options": [
+          "10",
+          "20",
+          "30",
+          "11",
+          "22",
+          "33"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "300gr_sbs_symbol_card",
+          "400gr_gesatineerd_mc",
+          "400gr_silk_mc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "soft_touch",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "geen",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_uv_coating_gloss",
+          "single_sided_uv_coating_matt"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "double_sided_partial_gloss",
+          "single_sided_partial_gloss"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_soft_touch_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "digital"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "300gr_silk_mc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "33",
+          "22",
+          "11",
+          "30",
+          "20",
+          "10"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "group_partial_gloss",
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "group_foils",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "coldfoil",
+          "double_sided_cold_foil",
+          "sigle_sided_cold_foil",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_double_sided_spot-uv_plus_foil",
+          "group_two_foils",
+          "double_sided_embossed_partial_gloss_80",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_foil_glitter",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_black",
+          "double_sided_foil_rose",
+          "single_sided_foil_glitter",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_black",
+          "single_sided_foil_rose",
+          "double_sided_foil"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "numbering",
+          "personalize_from_excel"
+        ],
+        "property": "personalize"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "double_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_matt_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "laminaat",
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "soft_touch",
+          "double_soft_touch_lamination",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "numbering",
+          "personalize_from_excel"
+        ],
+        "property": "personalize"
+      },
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      }
+    ],
+    [
+      {
+        "options": [
+          "bundle_per_100",
+          "bundle_per_500",
+          "bundle_per_250"
+        ],
+        "property": "bundle"
+      },
+      {
+        "options": [
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_foil"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "double_sided_partial_gloss",
+          "sigle_sided_cold_foil"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "400gr_gesatineerd_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "300gr_recycled",
+          "300gr_biotop",
+          "400gr_sbd",
+          "500gr_sbd",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_metallic_white",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_silver",
+          "300gr_metallic_gold",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "295gr_paperwise_earth_pact_natural",
+          "290gr_sirio_color_nero",
+          "400gr_yupo",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "200gr_yupo",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "400gr_silk_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "none"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_silk_mc",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "300gr_biotop",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "400gr_yupo",
+          "500gr_sbd",
+          "200gr_yupo"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_double_sided_spot-uv_plus_foil",
+          "group_two_foils",
+          "single_sided_foil_rose",
+          "single_sided_foil_black",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_glitter",
+          "double_sided_foil_rose",
+          "double_sided_foil_black",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_foil_glitter",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_black",
+          "double_sided_foil_rose",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "single_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "yes"
+        ],
+        "property": "die_cut"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "yes"
+        ],
+        "property": "die_cut"
+      },
+      {
+        "options": [
+          "295gr_paperwise_earth_pact_natural",
+          "290gr_sirio_color_nero",
+          "290gr_sirio_color_pietra",
+          "250gr_sirio_materica_clay",
+          "350gr_yupo_blue_ypi",
+          "300gr_yupo_blue_ypi",
+          "500gr_sbd",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "220gr_verge_naturel",
+          "220gr_verge_white",
+          "200gr_yupo",
+          "300gr_cotton_max_white",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_gentlemen_blue"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "300gr_sbs_symbol_card"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_scratch_resistant_laminate",
+          "scratch_resistant",
+          "double_soft_touch_lamination",
+          "single_soft_touch_lamination",
+          "double_sided_matt_lamination",
+          "double_sided_gloss_lamination"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "500gr_sbd"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "single_sided_matt_lamination",
+          "single_sided_gloss_lamination",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate",
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_4",
+          "singlehorizontal_4"
+        ],
+        "property": "fold"
+      },
+      {
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "property": "variable_creasing_line"
+      }
+    ],
+    [
+      {
+        "options": [
+          "1",
+          "2",
+          "4",
+          "3",
+          "5"
+        ],
+        "property": "variable_creasing_line"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_uv_coating_gloss",
+          "single_sided_uv_coating_matt"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "280gr_kraft",
+          "381gr_kraft",
+          "300gr_metallic_white",
+          "300gr_gesatineerd_mc",
+          "350gr_gesatineerd_mc",
+          "400gr_gesatineerd_mc",
+          "300gr_silk_mc",
+          "350gr_silk_mc",
+          "400gr_silk_mc",
+          "300gr_biotop",
+          "300gr_tintoretto_gesso",
+          "280gr_linnen",
+          "350gr_metallic_white",
+          "300gr_metallic_pearl",
+          "300gr_metallic_silver",
+          "300gr_metallic_gold",
+          "200gr_yupo",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "250gr_sirio_materica_clay",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "295gr_paperwise_earth_pact_natural",
+          "400gr_yupo",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "300gr_sbs",
+          "400gr_sbd",
+          "500gr_sbd",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_max_white",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue",
+          "540gr_two_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_black",
+          "750gr_three_layer_multiloft_white",
+          "750gr_three_layer_multiloft_ultra_white",
+          "810gr_three_layer_multiloft_kraft",
+          "350gr_sbs",
+          "350gr_sbs_invercote",
+          "350gr_hvo",
+          "400gr_hvo_nk",
+          "300gr_synaps"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "300gr_sbs_symbol_card",
+          "350gr_sbs"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "single_soft_touch_lamination",
+          "double_soft_touch_lamination",
+          "scratch_resistant",
+          "single_sided_scratch_resistant_laminate",
+          "double_sided_scratch_resistant_laminate"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_gesatineerd_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "custom:width:150-180",
+          "custom:height:150-180"
+        ],
+        "property": "size"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "group_partial_gloss",
+          "group_foils",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "sigle_sided_cold_foil",
+          "double_sided_foil_copper",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_two_foils",
+          "group_double_sided_spot-uv_plus_foil",
+          "coldfoil",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "geen",
+          "single_sided_uv_coating_matt",
+          "single_sided_uv_coating_gloss"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "540gr_two_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "810gr_three_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_black",
+          "750gr_three_layer_multiloft_white",
+          "750gr_three_layer_multiloft_ultra_white",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "bc_plus",
+          "bc_plus_portrait"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "400gr_silk_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "3,5_mm_radius"
+        ],
+        "property": "rounded_corners"
+      }
+    ],
+    [
+      {
+        "options": [
+          17000,
+          18000,
+          19000,
+          20000,
+          16000,
+          22500,
+          25000,
+          27500,
+          30000,
+          32500,
+          35000,
+          37500,
+          40000,
+          42500,
+          45000,
+          47500,
+          50000,
+          52500,
+          55000,
+          57500,
+          60000,
+          62500,
+          65000,
+          67500,
+          70000,
+          72500,
+          75000,
+          77500,
+          80000,
+          82500,
+          85000,
+          87500,
+          90000,
+          92500,
+          95000,
+          97500,
+          100000,
+          105000,
+          110000,
+          115000,
+          120000,
+          125000,
+          130000,
+          135000,
+          140000,
+          145000
+        ],
+        "property": "copies"
+      },
+      {
+        "options": [
+          "1_perforation_line"
+        ],
+        "property": "perforation"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_40",
+          "group_partial_gloss",
+          "group_foils",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "sigle_sided_cold_foil",
+          "single_sided_partial_gloss_plus_foil_gold",
+          "single_sided_partial_gloss_plus_foil_silver",
+          "single_sided_partial_gloss_plus_foil_copper",
+          "single_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_gold",
+          "single_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "double_sided_partial_gloss_plus_foil_silver",
+          "double_sided_partial_gloss_plus_foil_copper",
+          "double_sided_embossed_partial_gloss_40_plus_foil_gold",
+          "double_sided_embossed_partial_gloss_40_plus_foil_silver",
+          "double_sided_embossed_partial_gloss_40_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "group_single_sided_spot-uv_plus_foil",
+          "group_two_foils",
+          "double_sided_embossed_partial_gloss_80",
+          "group_double_sided_spot-uv_plus_foil",
+          "single_sided_foil_rose",
+          "single_sided_foil_black",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_glitter",
+          "double_sided_foil_rose",
+          "double_sided_foil_black",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "single_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "540gr_two_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_kraft",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "750gr_three_layer_multiloft_ultra_white",
+          "750gr_three_layer_multiloft_white",
+          "810gr_three_layer_multiloft_black"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_foil_rainbow",
+          "double_sided_foil_gold",
+          "single_sided_foil_glitter",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "single_sided_foil_rose",
+          "single_sided_foil_copper",
+          "single_sided_foil_silver",
+          "single_sided_foil_gold",
+          "double_sided_foil_rose",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_copper"
+        ],
+        "property": "spot_foil"
+      }
+    ],
+    [
+      {
+        "options": [
+          "220gr_conqueror_vergé_diamond_white",
+          "220gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_max_white",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue",
+          "500gr_sbd"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "single_sided_foil_rose",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_glitter",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_foil_rose",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper"
+        ],
+        "property": "spot_foil"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_biotop",
+          "300gr_hvo",
+          "350gr_hvo",
+          "300gr_hvo_nk",
+          "350gr_hvo_nk",
+          "540gr_two_layer_multiloft_kraft",
+          "810gr_three_layer_multiloft_kraft",
+          "381gr_kraft",
+          "280gr_kraft",
+          "290gr_sirio_color_pietra",
+          "290gr_sirio_color_nero",
+          "250gr_sirio_materica_clay",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue",
+          "300gr_cotton_max_white",
+          "480gr_two_layer_multiloft_ultra_white",
+          "480gr_two_layer_multiloft_white",
+          "540gr_two_layer_multiloft_black",
+          "750gr_three_layer_multiloft_ultra_white",
+          "750gr_three_layer_multiloft_white",
+          "810gr_three_layer_multiloft_black",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "geen"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "single_sided_foil_rose",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_glitter",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_foil_rose",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "double_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper"
+        ],
+        "property": "spot_foil"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_sided_partial_gloss",
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "220gr_conqueror_vergé_diamond_white",
+          "220gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_yupo_blue_ypi",
+          "350gr_yupo_blue_ypi",
+          "500gr_sbd",
+          "295gr_paperwise_earth_pact_natural",
+          "300gr_recystar",
+          "300gr_recystar_nature",
+          "300gr_cotton_max_white",
+          "300gr_cotton_linen_cream",
+          "300gr_cotton_new_grey",
+          "300gr_cotton_gentlemen_blue"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "double_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination",
+          "single_sided_uv_coating_gloss"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_copper",
+          "single_sided_foil_rose",
+          "single_sided_foil_rainbow",
+          "single_sided_foil_glitter",
+          "double_sided_foil_gold",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_foil_rose",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_glitter",
+          "double_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_silver",
+          "double_sided_foil_silver_plus_foil_copper",
+          "single_sided_foil_gold_plus_foil_copper",
+          "single_sided_foil_silver_plus_foil_copper"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "single_sided_linen_lamination",
+          "double_sided_linen_lamination",
+          "single_sided_uv_coating_gloss"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "350gr_hvo",
+          "350gr_hvo_nk",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_partial_gloss",
+          "double_sided_embossed_partial_gloss_80"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "single_sided_matt_lamination",
+          "single_sided_gloss_lamination",
+          "single_soft_touch_lamination",
+          "single_sided_scratch_resistant_laminate"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "300gr_hvo",
+          "350gr_hvo",
+          "300gr_hvo_nk",
+          "300gr_biotop",
+          "350gr_hvo_nk",
+          "400gr_hvo_nk"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "300gr_sbs",
+          "300gr_hvo",
+          "300gr_silk_mc",
+          "350gr_silk_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "double_sided_partial_gloss"
+        ],
+        "property": "spot_finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_foil",
+          "double_sided_foil",
+          "single_sided_foil_gold",
+          "single_sided_foil_silver",
+          "single_sided_foil_rose",
+          "single_sided_foil_copper",
+          "single_sided_foil_glitter",
+          "single_sided_foil_rainbow",
+          "double_sided_foil_silver",
+          "double_sided_foil_copper",
+          "double_sided_foil_gold",
+          "double_sided_foil_glitter",
+          "double_sided_foil_rainbow",
+          "double_sided_foil_rose"
+        ],
+        "property": "spot_foil"
+      },
+      {
+        "options": [
+          "280gr_linnen"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "businesscard_box"
+        ],
+        "property": "delivery"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_partial_gloss",
+          "single_sided_embossed_partial_gloss_40",
+          "single_sided_embossed_partial_gloss_80",
+          "double_sided_embossed_partial_gloss_40",
+          "double_sided_embossed_partial_gloss_80",
+          "group_single_sided_spot",
+          "double_sided_partial_gloss",
+          "group_double_sided_spot"
+        ],
+        "property": "spot_finish"
+      },
+      {
+        "options": [
+          "businesscard_box"
+        ],
+        "property": "delivery"
+      }
+    ],
+    [
+      {
+        "options": [
+          "bundle_per_500",
+          "bundle_per_250"
+        ],
+        "property": "bundle"
+      },
+      {
+        "options": [
+          "400gr_silk_mc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "custom:width:85-86",
+          "custom:height:55-56"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "3,5_mm_radius",
+          "7_mm_radius"
+        ],
+        "property": "rounded_corners"
+      }
+    ],
+    [
+      {
+        "property": "delivery",
+        "options": [
+          "businesscard_box"
+        ]
+      },
+      {
+        "property": "size",
+        "options": [
+          "custom:width:25-90",
+          "custom:height:25-55"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "rounded_corners",
+        "options": [
+          "3,5_mm_radius",
+          "7_mm_radius"
+        ]
+      },
+      {
+        "property": "printingmethod",
+        "options": [
+          "offset"
+        ]
+      },
+      {
+        "property": "material",
+        "options": [
+          "300gr_biotop",
+          "300gr_hvo_nk",
+          "300gr_conqueror_vergé_(crème)_high_white",
+          "300gr_conqueror_vergé_diamond_white"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "die_cut",
+        "options": [
+          "yes"
+        ]
+      },
+      {
+        "property": "material",
+        "options": [
+          "200gr_yupo",
+          "300gr_yupo_blue_ypi",
+          "400gr_yupo"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "material",
+        "options": [
+          "400gr_hvo_nk",
+          null
+        ]
+      },
+      {
+        "property": "delivery",
+        "options": [
+          "businesscard_box"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "fold",
+        "options": [
+          "no_fold"
+        ]
+      },
+      {
+        "property": "size",
+        "options": [
+          "custom:width:30-460",
+          "custom:height:30-460"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "material",
+        "options": [
+          "400gr_silk_mc"
+        ]
+      },
+      {
+        "property": "size",
+        "options": [
+          "bc_plus_portrait",
+          "bc_plus",
+          "custom:width:55-85",
+          "custom:height:55-85",
+          "bc_portrait",
+          "bc",
+          "custom"
+        ]
+      },
+      {
+        "property": "printingmethod",
+        "options": [
+          "offset"
+        ]
+      },
+      {
+        "property": "rounded_corners",
+        "options": [
+          "7_mm_radius"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "drillholes",
+        "options": [
+          "one_drillhole_4mm",
+          "two_drillholes_4mm",
+          "one_drillhole_5mm",
+          "two_drillholes_5mm"
+        ]
+      },
+      {
+        "property": "printtype",
+        "options": [
+          "10",
+          "20",
+          "30",
+          "11",
+          "22",
+          "33"
+        ]
+      },
+      {
+        "property": "printingmethod",
+        "options": [
+          "offset"
+        ]
+      }
+    ]
+  ]
 }

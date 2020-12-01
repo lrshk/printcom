@@ -424,5 +424,855 @@
     }
   ],
   "maxDesigns": 50,
-  "bleed": "3"
+  "bleed": "3",
+  "excludes": [
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "95gr_neon_papier_geel",
+          "95gr_neon_papier_groen",
+          "95gr_neon_papier_magenta",
+          "95gr_neon_papier_oranje",
+          "135gr_gesatineerd_mc",
+          "150gr_silk_mc",
+          "170gr_silk_mc",
+          "150gr_citylight",
+          "170gr_synaps",
+          "250gr_gesatineerd_mc",
+          "280gr_backlit_polyester",
+          "510gr_pvc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "custom:width:-1800",
+          "custom:height:-1200"
+        ],
+        "property": "size"
+      }
+    ],
+    [
+      {
+        "options": [
+          "150gr_citylight",
+          "170gr_synaps",
+          "510gr_pvc",
+          "280gr_backlit_polyester",
+          "95gr_neon_papier_geel",
+          "95gr_neon_papier_groen",
+          "95gr_neon_papier_magenta",
+          "95gr_neon_papier_oranje",
+          "170gr_silk_mc",
+          "170gr_gesatineerd_mc",
+          "135gr_silk_mc",
+          "150gr_silk_mc",
+          "250gr_silk_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "single_sided_whiteboard_laminate"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "510gr_pvc",
+          "115gr_blueback",
+          "170gr_synaps",
+          "95gr_neon_papier_geel",
+          "95gr_neon_papier_groen",
+          "95gr_neon_papier_magenta",
+          "95gr_neon_papier_oranje",
+          "150gr_citylight"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "single_sided_whiteboard_laminate"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "yes"
+        ],
+        "property": "poster_fold"
+      },
+      {
+        "options": [
+          "abri",
+          "a4",
+          "b0",
+          "b1",
+          "b2",
+          "b3",
+          "a1_large",
+          "a2_large",
+          "a3_large",
+          "a4_large",
+          "b1_large",
+          "b2_large",
+          "b3_large",
+          "a0"
+        ],
+        "property": "size"
+      }
+    ],
+    [
+      {
+        "options": [
+          "yes"
+        ],
+        "property": "poster_fold"
+      },
+      {
+        "options": [
+          "digital"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "yes"
+        ],
+        "property": "poster_fold"
+      },
+      {
+        "options": [
+          "115gr_blueback",
+          "150gr_silk_mc",
+          "510gr_pvc",
+          "150gr_citylight",
+          "170gr_silk_mc",
+          "135gr_mat_mc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_matt_lamination",
+          "single_sided_whiteboard_laminate",
+          "single_sided_gloss_lamination"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "280gr_backlit_polyester"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "10_pms_black"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "115gr_blueback",
+          "135gr_gesatineerd_mc",
+          "150gr_citylight",
+          "170gr_silk_mc",
+          "250gr_gesatineerd_mc",
+          "510gr_pvc",
+          "170gr_synaps",
+          "280gr_backlit_polyester",
+          "135gr_mat_mc",
+          "135gr_silk_mc",
+          "150gr_silk_mc",
+          "170gr_gesatineerd_mc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "95gr_neon_papier_geel",
+          "95gr_neon_papier_groen",
+          "95gr_neon_papier_magenta",
+          "95gr_neon_papier_oranje"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "40"
+        ],
+        "property": "printtype"
+      }
+    ],
+    [
+      {
+        "options": [
+          "44"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "abri",
+          "a0",
+          "b0",
+          "a1_large",
+          "a2_large",
+          "b1_large",
+          "b1"
+        ],
+        "property": "size"
+      }
+    ],
+    [
+      {
+        "options": [
+          "42",
+          "43"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "95gr_neon_papier_geel",
+          "95gr_neon_papier_groen",
+          "95gr_neon_papier_magenta",
+          "95gr_neon_papier_oranje",
+          "115gr_blueback",
+          "150gr_citylight",
+          "280gr_backlit_polyester",
+          "510gr_pvc",
+          "170gr_synaps",
+          "170gr_silk_mc",
+          "250gr_gesatineerd_mc",
+          "135gr_gesatineerd_mc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination"
+        ],
+        "property": "finish"
+      },
+      {
+        "options": [
+          "abri",
+          "a0",
+          "a1",
+          "b0",
+          "b1",
+          "a1_large",
+          "a2_large",
+          "b1_large",
+          "b2_large",
+          "b1_plus",
+          "b2_plus",
+          "a0_plus",
+          "a1_plus"
+        ],
+        "property": "size"
+      }
+    ],
+    [
+      {
+        "options": [
+          "135gr_mat_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination",
+          "single_sided_whiteboard_laminate"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "135gr_mat_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "a0",
+          "a1",
+          "a2",
+          "a3",
+          "a4",
+          "b0",
+          "b1",
+          "b2",
+          "b3",
+          "a1_large",
+          "a2_large",
+          "a3_large",
+          "a4_large",
+          "b1_large",
+          "b2_large",
+          "b3_large",
+          "a2_plus",
+          "a1_plus",
+          "a0_plus",
+          "b2_plus",
+          "b1_plus"
+        ],
+        "property": "size"
+      }
+    ],
+    [
+      {
+        "options": [
+          "abri"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "95gr_neon_papier_geel",
+          "95gr_neon_papier_groen",
+          "95gr_neon_papier_magenta",
+          "95gr_neon_papier_oranje",
+          "115gr_blueback",
+          "135gr_gesatineerd_mc",
+          "150gr_citylight",
+          "170gr_silk_mc",
+          "170gr_synaps",
+          "280gr_backlit_polyester",
+          "250gr_gesatineerd_mc",
+          "510gr_pvc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "42",
+          "43"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "digital"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "poster_photo_packag"
+        ],
+        "property": "package_type"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "yes"
+        ],
+        "property": "package_type"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "44"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "95gr_neon_papier_geel",
+          "95gr_neon_papier_groen",
+          "95gr_neon_papier_magenta",
+          "95gr_neon_papier_oranje",
+          "115gr_blueback",
+          "135gr_mat_mc",
+          "150gr_citylight",
+          "170gr_synaps",
+          "280gr_backlit_polyester",
+          "510gr_pvc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "44"
+        ],
+        "property": "printtype"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "single_sided_whiteboard_laminate"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "b0_plus",
+          "b1_plus",
+          "b2_plus",
+          "a0_plus",
+          "a1_plus"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "a1",
+          "b2_large",
+          "b1_plus",
+          "b2_plus",
+          "a0_plus",
+          "a1_plus"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "digital"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "44"
+        ],
+        "property": "printtype"
+      }
+    ],
+    [
+      {
+        "options": [
+          "95gr_neon_papier_geel",
+          "95gr_neon_papier_groen",
+          "95gr_neon_papier_magenta",
+          "95gr_neon_papier_oranje",
+          "135gr_gesatineerd_mc",
+          "115gr_blueback",
+          "135gr_mat_mc",
+          "135gr_silk_mc",
+          "150gr_silk_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "single_sided_whiteboard_laminate",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "luxury_poster_packaging"
+        ],
+        "property": "delivery"
+      }
+    ],
+    [
+      {
+        "options": [
+          "280gr_backlit_polyester"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "single_sided_gloss_lamination",
+          "single_sided_matt_lamination",
+          "single_sided_whiteboard_laminate",
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "a0",
+          "abri",
+          "a1",
+          "b0",
+          "b1",
+          "a1_large",
+          "b1_large",
+          "b2_large",
+          "a2_large",
+          "b1_plus",
+          "b2_plus",
+          "a0_plus",
+          "a1_plus"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "170gr_gesatineerd_mc"
+        ],
+        "property": "material"
+      }
+    ],
+    [
+      {
+        "options": [
+          "custom:width:-500",
+          "custom:height:-700"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "double_sided_gloss_lamination",
+          "double_sided_matt_lamination"
+        ],
+        "property": "finish"
+      }
+    ],
+    [
+      {
+        "options": [
+          "135gr_mat_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "digital"
+        ],
+        "property": "printingmethod"
+      }
+    ],
+    [
+      {
+        "options": [
+          "abri",
+          "a0",
+          "a1",
+          "b1",
+          "a1_large",
+          "a2_large",
+          "b1_large",
+          "b2_large",
+          "pavement_sign",
+          "b2_plus",
+          "b1_plus",
+          "a0_plus",
+          "a1_plus",
+          "a2_plus",
+          "b0"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "delivered_flat_in_box"
+        ],
+        "property": "delivery"
+      }
+    ],
+    [
+      {
+        "options": [
+          "custom:width:-700",
+          "custom:height:-500"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "delivered_flat_in_box"
+        ],
+        "property": "delivery"
+      }
+    ],
+    [
+      {
+        "options": [
+          "custom:width:-500",
+          "custom:height:-700"
+        ],
+        "property": "size"
+      },
+      {
+        "options": [
+          "digital"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "44"
+        ],
+        "property": "printtype"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "delivered_flat_in_box"
+        ],
+        "property": "delivery"
+      },
+      {
+        "options": [
+          "abri",
+          "a1",
+          "b3",
+          "a4_large",
+          "b1_large",
+          "b2_large",
+          "a_formaten",
+          "b3_large",
+          "pavement_sign",
+          "b_formaten",
+          "specials",
+          "b2_plus",
+          "b1_plus",
+          "a0_plus",
+          "a1_plus",
+          "a2_plus",
+          "a0"
+        ],
+        "property": "size"
+      }
+    ],
+    [
+      {
+        "options": [
+          "offset"
+        ],
+        "property": "printingmethod"
+      },
+      {
+        "options": [
+          "135gr_mat_mc"
+        ],
+        "property": "material"
+      },
+      {
+        "options": [
+          "custom:width:-1150",
+          "custom:height:-1750"
+        ],
+        "property": "size"
+      }
+    ],
+    [
+      {
+        "property": "material",
+        "options": [
+          "115gr_blueback"
+        ]
+      },
+      {
+        "property": "printingmethod",
+        "options": [
+          "digital"
+        ]
+      },
+      {
+        "property": "size",
+        "options": [
+          "custom:width:148-1200",
+          "custom:height:148-"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "material",
+        "options": [
+          "115gr_blueback"
+        ]
+      },
+      {
+        "property": "printingmethod",
+        "options": [
+          "offset"
+        ]
+      },
+      {
+        "property": "size",
+        "options": [
+          "custom:width:148-1400",
+          "custom:height:148-1000"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "copies",
+        "options": [
+          50,
+          75,
+          100,
+          150,
+          0,
+          "25",
+          "10",
+          "5",
+          1,
+          200,
+          250,
+          300,
+          350,
+          400,
+          450
+        ]
+      },
+      {
+        "property": "printingmethod",
+        "options": [
+          "offset"
+        ]
+      },
+      {
+        "property": "size",
+        "options": [
+          "a3",
+          "custom:width:420-",
+          "custom:height:594-",
+          "a4",
+          "a3_large",
+          "a4_large"
+        ]
+      }
+    ],
+    [
+      {
+        "property": "material",
+        "options": [
+          "95gr_neon_papier_geel",
+          "95gr_neon_papier_groen",
+          "95gr_neon_papier_magenta",
+          "95gr_neon_papier_oranje"
+        ]
+      },
+      {
+        "property": "size",
+        "options": [
+          "custom:width:100-840",
+          "custom:height:100-5000"
+        ]
+      }
+    ]
+  ]
 }
