@@ -95,6 +95,6 @@ function updateSettings(newValue: {[key: string]: string}) {
 }
 
 function handleClick() {
-  cartStore.addToCart({...productSettings, productType })
+  cartStore.addToCart({...productSettings, productType: productType as string})
 }
 </script>
