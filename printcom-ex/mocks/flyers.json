@@ -1363,7 +1363,7 @@
 				},
 				{
 					"slug": "no",
-					"name": null,
+					"name": "Not Bundled",
 					"nullable": true
 				}
 			]

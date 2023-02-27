@@ -831,13 +831,13 @@
 				},
 				{
 					"slug": "not_defined",
-					"name": null,
+					"name": "Not defined",
 					"nullable": true,
 					"enrichments": []
 				},
 				{
 					"slug": "small_indigo_sheet",
-					"name": null,
+					"name": "small indigo sheet",
 					"nullable": false,
 					"enrichments": []
 				}

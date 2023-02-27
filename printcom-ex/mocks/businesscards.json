@@ -1757,7 +1757,7 @@
 				},
 				{
 					"slug": "not_defined",
-					"name": null,
+					"name": "Not defined",
 					"nullable": true,
 					"enrichments": []
 				}
