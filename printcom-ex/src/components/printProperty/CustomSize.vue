@@ -1,30 +1,40 @@
 <template>
-  <input :type="type || 'radio'" 
-    :name="vModel" 
-    :id="slug" 
-    :value="slug"
-    @change="handleChange"
-  />
-  <label :for="slug">Custom Size</label>
-  <div>
-    <label for="width">Width</label>
-    <input type="number" 
-      :id="slug" 
-      v-model="width"
-      :min="customSizes.minWidth" 
-      :max="customSizes.maxWidth"
-      @change="handleChange"
-    >
-  </div>
-  <div>
-    <label for="height">Height</label>
-    <input type="number" 
-      :id="slug" 
-      v-model="height" 
-      :min="customSizes.minHeight" 
-      :max="customSizes.maxHeight"
-      @change="handleChange"
-    >
+  <div class="control">
+    <label class="radio">
+      <input :type="type || 'radio'" 
+        :name="vModel" 
+        :id="slug" 
+        :value="slug"
+        @change="handleChange"
+      />
+      Custom Size
+    </label>
+    <div class="field is-horizontal">
+      <div class="control">
+        <label for="width">
+          Width
+          <input type="number" 
+            :id="slug" 
+            v-model="width"
+            :min="customSizes.minWidth" 
+            :max="customSizes.maxWidth"
+            @change="handleChange"
+          >
+        </label>
+      </div>
+      <div class="control">
+        <label for="height">
+          Height
+          <input type="number" 
+            :id="slug" 
+            v-model="height"
+            :min="customSizes.minHeight" 
+            :max="customSizes.maxHeight"
+            @change="handleChange"
+          >
+        </label>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -54,3 +64,10 @@ function handleChange(e: Event) {
   return emit('change', { [props.vModel]: customSize.value })
 }
 </script>
+
+<style scoped>
+.field.is-horizontal > .control ~ .control::before {
+  content: 'x';
+  margin-left: 5px;
+}
+</style>

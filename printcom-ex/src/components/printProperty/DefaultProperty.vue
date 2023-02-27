@@ -11,13 +11,15 @@ defineEmits(['change']);
 </script>
 
 <template>
-  <div>
-    <input :type="type || 'radio'" 
-      :name="vModel" 
-      :id="slug" 
-      :value="slug" 
-      @change.stop="$emit('change', { [vModel]: slug })"
-    />
-    <label :for="slug">{{ name }}</label>
+  <div class="control">
+    <label :for="slug" class="radio">
+      <input :type="type || 'radio'" 
+        :name="vModel" 
+        :id="slug" 
+        :value="slug" 
+        @change.stop="() => $emit('change', { [vModel]: slug })"
+      />
+      {{ name }}
+    </label>
   </div>
 </template>

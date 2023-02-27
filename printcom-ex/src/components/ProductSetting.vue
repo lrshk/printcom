@@ -27,17 +27,31 @@ defineProps<{
   parentOptions?: any[];
 }>()
 
-import Card from './Card.vue';
 import PrintProperty from './printProperty/index.vue';
 </script>
 
 <template>
-  <Card :title="title">
-    <PrintProperty
-      v-for="option in options" :key="option.slug"
-      :property="option"
-      :v-model="slug"
-      v-bind="$attrs"
-    />
-  </Card>
+  <div class="card">
+    <div class="card-header">
+      <p class="card-header-title">
+        {{ title }}
+      </p>
+    </div>
+    <div class="card-content">
+      <div class="content">
+        <PrintProperty
+          v-for="option in options" :key="option.slug"
+          :property="option"
+          :v-model="slug"
+          v-bind="$attrs"
+        />
+      </div>
+    </div>
+  </div>
 </template>
+
+<style scoped>
+.card-header {
+  background: #f9f073;
+}
+</style>

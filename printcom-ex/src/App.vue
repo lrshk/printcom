@@ -1,18 +1,13 @@
 <template>
   <header>
-    <nav>
-      <RouterLink to="/">Home</RouterLink>
-      <RouterLink to="/cart">Cart</RouterLink>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-menu">
+        <RouterLink to="/" class="navbar-item">Home</RouterLink>
+        <RouterLink to="/cart" class="navbar-item">Cart</RouterLink>
+      </div>
     </nav>
   </header>
-  <main>
+  <main class="container">
     <RouterView />
   </main>
 </template>
-
-<style scoped>
-* {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 12px;
-}
-</style>

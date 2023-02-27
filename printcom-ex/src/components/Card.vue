@@ -7,29 +7,20 @@ defineProps<{
 
 <template>
   <div class="card">
-    <div v-if="thumbnail" class="thumbnail">
-      <img :src="thumbnail" :alt="title" />
+    <div class="card-image" v-if="thumbnail">
+      <figure  class="image is-1by1">
+        <img :src="thumbnail" :alt="title" />
+      </figure>
     </div>
-    <div class="name">
-      {{ title }}
+    <div class="card-content">
+      <div class="media">
+        <div class="media-left">
+          <p class="title is-4">
+            {{ title }}
+          </p>
+        </div>
+      </div>
     </div>
     <slot />
   </div>
 </template>
-
-<style scoped>
-.card {
-  background: #fff;
-  border-radius: 5px;
-  filter: drop-shadow(1px 1px 5px #e5e5e5);
-  padding: 8px;
-}
-.thumbnail {
-  width: 100%;
-  object-fit: cover;
-}
-.name {
-  color: #252525;
-  font-size: 1.8em;
-}
-</style>

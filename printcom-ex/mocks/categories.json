@@ -2,19 +2,19 @@
   "categories": [
     {
       "name": "Flyers",
-      "thumbnail": "https://picsum.photos/id/1/200/300",
+      "thumbnail": "https://picsum.photos/id/1/300/300",
       "mockJson": "flyers.json",
       "slug": "flyers"
     },
     {
       "name": "Business Cards",
-      "thumbnail": "https://picsum.photos/id/10/200/300",
+      "thumbnail": "https://picsum.photos/id/10/300/300",
       "mockJson": "businesscards.json",
       "slug": "businesscards"
     },
     {
       "name": "Posters",
-      "thumbnail": "https://picsum.photos/id/20/200/300",
+      "thumbnail": "https://picsum.photos/id/20/300/300",
       "mockJson": "posters.json",
       "slug": "posters"
     }

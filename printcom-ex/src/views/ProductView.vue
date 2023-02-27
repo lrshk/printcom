@@ -1,3 +1,39 @@
+<template>
+  <h2 class="title is-2">
+    {{ product.title }}
+  </h2>
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+          <div class="tile is-parent is-vertical">
+            <div class="column" v-for="property in product.properties" :key="property.slug" >
+              <ProductSetting 
+                v-bind="property"
+                @change="updateSettings"
+              />
+            </div>
+          </div>
+      </div>
+      <div class="column">
+        <div>
+          You've picked:
+          <p>{{ productSettings }}</p>
+        </div>
+        <div>
+          Excludes rules are
+          <p>{{ excludesRules }}</p>
+        </div>
+        <button class="button is-success"
+          @click="handleClick"
+          :disabled="!areSettingsValid"  
+        >
+          Add to cart
+        </button>
+      </div>
+    </div>
+  </div>
+</template>
+
 <script setup lang="ts">
 import { useRoute } from 'vue-router'
 import { useCartStore } from '@/stores/cart';
@@ -57,46 +93,8 @@ const areSettingsValid = computed(() => {
 function updateSettings(newValue: {[key: string]: string}) {
   Object.assign(productSettings, newValue);
 }
+
+function handleClick() {
+  cartStore.addToCart({...productSettings, productType })
+}
 </script>
-
-<template>
-  <h1>
-    {{ product.title }}
-  </h1>
-  <div>
-    You've picked:
-    <p>{{ productSettings }}</p>
-  </div>
-  <div>
-    Excludes rules are
-    <p>{{ excludesRules }}</p>
-  </div>
-  <div>
-    Can submit
-    <p>{{ areSettingsValid }}</p>
-  </div>
-  <div class="settings">
-    <ProductSetting v-for="property in product.properties"
-      v-bind="property"
-      :key="property.slug"
-      @change="updateSettings"
-    />
-  </div>
-  <button @click="() => cartStore.addToCart(productSettings)"
-    :disabled="!areSettingsValid"  
-  >
-    Add to cart
-  </button>
-</template>
-
-<style scoped>
-.settings {
-  display: flex;
-  gap: 16px;
-  flex-wrap: wrap;
-}
-
-.settings > * {
-  width: 300px;
-}
-</style>

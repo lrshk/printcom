@@ -4,6 +4,9 @@ const cartStore = useCartStore();
 </script>
 
 <template>
+  <div v-if="cartStore.products.length === 0">
+    Your cart is empty
+  </div>
   <div>
     <p v-for="(product, index) in cartStore.products" 
       :key="index"
